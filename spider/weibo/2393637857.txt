@@ -1,0 +1,409 @@
+{
+    "followers_num": "334",
+    "following_num": "404",
+    "id": "2393637857",
+    "name": "金明洙世界第一可爱",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "优贤的至理名言系列[爱你]1只有一次的人生，我也想和大家一起永生相爱。这是我的梦想 [爱心]2'世上好像只有我很不幸... 只有我很辛苦' 试着把这种思想反过来想想。那样的话 世界也会为你加油的！[爱心]3只有一次的人生(人生在世) 大家活着真的很累吧... 即便如此 大家也要愉快得度过这仅有一次 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月30日 11:27 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月30日 11:25 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "中考前四个月我决定临时好好抱抱佛脚[二哈] ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "02月18日 17:35 来自",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "idol界的‘抢镜王’，级别都是特级[笑cry] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月23日 13:07 来自三星Galaxy Note II",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙# [心]【金明洙26th生日应援公益part】       [“Guard L” 守护L[心]]2017.03.13 生命站如约与你们携手庆贺明洙26岁生日 2017让我们一起继续守护L[心]这是一个废话很多比较长的微博，但拜托你们一定耐心看下去[喵喵]本次生命站，金明洙26th生日应援的公益part，联合@免费午餐 益起做快乐公 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月23日 13:04 来自三星Galaxy Note II",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "推特上饭做的视频 [眼泪]我烈你真的是女团最高成员哈哈哈哈哈哈哈 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月23日 12:55 来自三星Galaxy Note II",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "每次看见基友团的表白，心里都暖暖的，2017无限和基友团们一起走花路吧[心][心][心] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月23日 12:53 来自三星Galaxy Note II",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "分享图片 ",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "01月23日 12:48 来自三星Galaxy Note II",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#INFINITE#[微风]#守护我的infinite# Merry Christmas[圣诞树][礼花]主唱line对唱圣诞曲~心疼中间的好圆[doge][doge] 忘词忘太多了吧[doge]但是某位哥那范儿不能再足了[笑cry][笑cry]feel满满~[偷笑]  好圆os：吵死了  默默笑看你们秀[微笑][笑cry] 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-24 14:49:38 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "今天平安夜  亲们都要平平安安健健康康的哦  要记得吃苹果，没人给的话就自己去买[偷笑][偷笑][偷笑]新的一年要继续幸福下去 继续陪着哥哥们一起走下去[爱你][爱你]  么么扎  爱你们呦【视频cr. ALL THE K–POP  文by.一个孤独的老姨母】 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-24 14:49:06 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#圣诞#来了，转发此微博你会戴上1顶圣诞帽哟[二哈]转发@ 1个好基友，小会长替你送他1顶[二哈]更多#微博会员福利# http://t.cn/RI9s981 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-24 14:47:28 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【资源分享】#金明洙分手第二天#one more time自截音频  金明洙唱了好几首ost 但还是这首最让我心动 可能这首旋律最对我胃口 也可能这首听起来最让我觉得他唱的游刃有余 情感表达的很到位 也可能最后一集里这首歌前的告白台词他讲的很从容很自然 从这一首歌我实实在在地看到了他的进步 等这首ost的完 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-24 14:47:08 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "笑到眼淚停不下來[笑cry][笑cry][笑cry][笑cry][笑cry] 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-23 19:19:51 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#李成种# ∞.¤LemonSJ¤.∞「安利视频161223] 111224  INFINITE - Special Stage with TEENTOP【cr:Logo】转载请注明原出处和李成种吧 [好激动][好激动]圣诞即将而至[转发]带上萌萌哒卷毛种和大家Say Happy [好喜欢]不要忘记我们的圣诞节活动哟~~ 倒计时D-2 [哆啦A梦花心] 李成种LeeSungJong吧的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-23 19:17:36 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "灰常灰常爱自己的无限[喵喵][doge][喵喵][doge][喵喵][doge][喵喵]cr. sixswsw(Twitter ) ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-19 17:16:57 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#张东雨# 二哥参加了为了筹集受虐待孩子们的心理治疗费用的\"save the children\"的慈善拍卖活动，宣传大使是朴京林怒那，我们二哥的才能捐献舞台真的很帅气呢[羞嗒嗒]善良的哥哥[心]原文链接[向右]http://t.cn/RItQfwf ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-17 10:51:35 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "如何#关掉新浪擅自推送的热门微博和视频消息#！！！看这里！【随便点进去一个设置→偏好设置→邮件提醒设置→关掉！】简直一片清静…… ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-17 10:50:05 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙# 终于得空又好好看了下年历的making[二哈]面对队长关于如何保持帅气的秘诀是不是有皮肤科的赞助的搞笑提问，明洙的回答却是难得的认真[微笑]详见下简翻频[下]明洙说秘诀是来自粉丝的爱、关心和爱护【这小嘴又甜的[doge]明洙说因为他觉得男人从三十才开始，就像是外貌和想法都比年轻时在慢慢的成 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-17 10:45:13 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#INFINITE##南优贤# 看举重妖精金福珠的时候发现南柱赫的手机里……这是优贤吧[笑cry][笑cry]还有前几集手机里的南木[doge] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-17 10:35:29 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哈哈哈哈哈名场面诞生啊[笑cry][笑cry][笑cry][笑cry][笑cry]【lapisshe】【kero0827_a24】【mukimukiidol】 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-15 18:49:20 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "情话十级，互撩的最高境界。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-15 13:09:35 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#李成烈# [心]#丛林美男李成烈# [七站联合]161214 Vapp 成种和孩子们 INFINITE 突击放送 直播中字 链接：http://t.cn/RIGW2ts 密码：80x9 转载请注明七站联合并携带相关信息 禁二传二改 【看起来[兔子][兔子][兔子][兔子][兔子] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-15 13:06:36 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "你喜欢哪一种男票？ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-13 17:20:39 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#INFINITE# 有饭在武林门口看到一辆宾利V8 [哆啦A梦汗]有饭说是南优贤的车[哆啦A梦吃惊][哆啦A梦吃惊]一百多万[哆啦A梦吃惊][哆啦A梦吃惊]突然发现无限这么有钱了好不适应[笑cry][笑cry] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-13 17:18:54 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "四个字总结下你的2016年 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-12 07:16:50 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "龙俊亨：“好那我们接下来也该去谈谈未来了…”金圣圭：“嗯…苦恼一下有关人生神马的…想过去看今朝展望未来神马的…”龙俊亨：“就酱咯～Infinite饭们我爱你们～”金圣圭：“我也爱Beauty们哦～Inspirits也爱～啊酿～” ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-12 02:19:39 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#张东雨#[心]#天蝎暖男张东雨#  ◤GIF◢  161210 东东雨的bobo(* ￣3)(ε￣ *) 刚说了早安，现在来说午安 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-10 18:13:56 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "虹桥一姐还蹲过infinite我的妈[摊手] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-09 16:01:58 来自",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "#李成种# 【動圖】161207 成種Vapp直播 cr:oh_my_infinite 今天直播的氛圍大致上是這樣 你們寄己感受一下[doge] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-08 00:26:30 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "他們還沒有忘記。 ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "2016-12-08 00:14:17 来自",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "【naverblog】#李成烈# -#李浩沅# 这演技要给满分的![doge](cr.logo) ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-08 00:13:28 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#安利记录本# 【青春校园剧合集】[微风]最近在看举重妖精金福珠所以就想整理这个合集了[哆啦A梦微笑]一共整理了75部校园剧 23部今年的 剩下的是原来的 正好也快过年了 留着放假煲剧用吧[羞嗒嗒][羞嗒嗒]欢迎推荐补充 也说说你最喜欢的几部校园剧吧～（我平时看日韩的剧比较多 其他的都是挑着看的 所 全文",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "2016-12-07 23:59:56 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙分手第二天# 161207 #金明洙#『想要守护你~ONE MORE TIME~』EP7自截图 天！啦！噜！居然有这么一本刘叹偶吧个人专属相簿！！！各种生活照实在太太太可爱了可爱cry[抓狂][抓狂][抓狂][心][心][心] 导演nim啊PD nim我们谈谈！把这些照片高清全放出来造福广大群众好不好[来][来][来] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-07 23:55:57 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "小公司偶像的大勢神話！INFINITE篇 [鼓掌]最棒的INFINITE[心]  秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-06 18:20:39 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【instiz】#金圣圭# 精神'崩溃'时的超萌小习惯…[哈哈](cr:logo) ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-04 07:27:35 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【instiz】总和粉丝像朋友聊天似的男团 #Infinite#.这样说来---求!偶!遇! ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-03 15:40:18 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙# MS #金明洙分手第二天# 【GIF】161130「想要守护你~ONE MORE TIME」（韩文名：分手第二天）第六话 自截2P 大抵所有的女孩子都期待被这样宠着、这样温柔的看着……直到地老天荒[害羞] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-02 16:43:03 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【xportsnews独家】[B1A4-Block B-Infinite均将参与警方调查]“李世英性骚扰事件”受害人B1A4-Block B-Infinite均将接受警方调查.2日根据体育朝鲜独家报道,首尔麻浦警察局方面表示,将于本周内首先对B1A4成员进行传唤,在了解事情原委和具体过程后再决定是否对李世英进行调查以及何时对李世英进行调查.随 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-02 12:14:33 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#B1A4#-#Block B#-#Infinite#将于本周内接受麻浦警局调查。据麻浦警局透露此次因“李世英性骚扰”事件而被曝光的受害人组合B1A4、Block B以及Infinite都将在本周内收到警局传唤并接受调查，但Block B队长ZICO因已前往中国香港参加2016MAMA颁奖礼，所以Block B接受传唤的时间有可能会有变动。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-02 12:14:04 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#午安金明洙# #金明洙分手第二天# 世界上最萌的明小喵~[km羞][km羞][km羞][km羞]#金明洙# ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-30 18:58:41 来自",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "#这些年我们追过的南圭#之#南优贤#深情不及久伴，厚爱无需多言。这辈子，这条路，我们一起走下去吧[心][心] <cr.logo> ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-28 17:23:06 来自生性锋狂 OPPO R5",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-28 17:19:41 来自生性锋狂 OPPO R5",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙# 【推特】MBC 电视剧《君主》预计将于2017年3月播放[好喜欢]剧组这周要准备开机了，不知道我们明洙什么时候进组呢？好期待[好喜欢] cr:godqhr5119 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-28 17:16:38 来自生性锋狂 OPPO R5",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#南优贤# #心之所向南优贤# 【LFT独家】161128足球赛上班 [大哭][二哈] 今天加油加油[心] 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-28 17:15:28 来自生性锋狂 OPPO R5",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-28 17:09:24 来自生性锋狂 OPPO R5",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#张东雨# word妈呀……一个饭去小章鱼店里 然后里面的阿姨问她：你想见东雨吗？ 饭：非常想 阿姨：你应该早点说的 我给你打电话叫他过来 然后……就真的把东雨叫去店里了……虽然不能合照但是问候了……东雨妈妈还说:你来的时间点真的很6[眼泪]好了 羡慕不来cr:logo ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-25 17:24:07 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "前两次都是哥哥自己去，都很好的照顾自己健康的回来了。这次和小哥哥一起去放心很多  一路叫着哥啊哥啊的，像去度假似得打打闹闹一路[眼泪]也是两个淘气鬼[眼泪]等你们回来~#李成烈##丛林美男李成烈# 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-25 17:23:32 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#张东雨# 我这辈子喜欢的怎么都是傻子呢[摊手] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-25 17:14:55 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "你在床上拍画报我在沙发上看着你[污] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-24 19:36:53 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#金明洙# [猫咪]#金明洙分手第二天# 今儿兴奋的差点忘记放七天的奇迹 ep3 明洙cut，无限也只有这两秒[二哈]被那位唱作诗人笑劈叉的明爷再现，希望下集能多点part[摊手]Ling_ChouChou的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-24 19:36:30 来自",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "554"
+}

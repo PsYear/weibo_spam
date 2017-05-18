@@ -1,0 +1,401 @@
+{
+    "followers_num": "917",
+    "following_num": "1595",
+    "id": "3910380619",
+    "name": "济源鑫飞越长城汽车4S店",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "全新哈弗H6|5月21日济源鑫飞越荣耀上市会5月21日即将开启！ 全新哈弗H6|5月21日济源鑫飞越荣耀上市会 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "今天 17:53 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "想亲手触摸，亲身体验VV7c/VV7s吗？现在机会来了！VV7c/VV7s在全国的万达广场，等你赴约，不见不散！ 万达广场的WEY来之约，邀您亲身体验，亲手触摸！ ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "今天 15:32 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "10亿红包+金融补贴 哈弗重磅推出“史上最大优惠” - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaTBeBm ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "今天 14:56 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "新车档案：8AT高性能SUV 新哈弗H8亮点解读 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaTSzJ1 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "今天 11:32 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "搭载高功率2.0T+8AT 新哈弗H9震撼上市售21.98万起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaTfFfV ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "今天 10:29 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "新车档案：全能硬汉新哈弗H9上市 售价21.98万元起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaT2BQx ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "今天 08:45 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "搭载高功率2.0T+8AT 新哈弗H9震撼上市售21.98万起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaWxqKe ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月15日 17:38 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "全新哈弗H6|5月21日济源鑫飞越荣耀上市会5月21日即将开启！ 全新哈弗H6|5月21日济源鑫飞越荣耀上市会 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "05月15日 15:11 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖征集 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月15日 11:53 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "致敬“中国品牌日” 一张图速览哈弗品牌价值 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaOLDv8 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月15日 11:00 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "利刃出鞘 新哈弗H8上演高性能试驾盛筵 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaiblQf ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月15日 09:51 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "搜狐汽车：自主豪华新格调 试新哈弗H8 2.0T+8AT - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaNi42b ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月14日 18:26 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "安全性能超越合资 哈弗H7喜获C - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaNq3IE ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月14日 17:29 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "新车档案：全新哈弗H6上市 售价11.88万元起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaCRyLc ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月14日 14:33 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "@长城汽车 @哈弗SUV 哈弗套餐[doge] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月14日 10:45 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖征集 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月14日 10:33 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "10亿红包+金融补贴 哈弗重磅推出“史上最大优惠” - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaCvLMH ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月14日 10:27 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "汽车之家：硬汉会武术 实拍2016款哈弗H5经典版 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaKhB0b ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月13日 18:28 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[金牌导购]第60期：行走的教科书 新哈弗H9亮点大集合 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Rao77yN ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月13日 10:53 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[哈弗手册] 第23期 :入门级SUV 让你尖叫的N大亮点 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 [哈弗手册] 第二十三期 :入门级SUV 让你尖叫的N大亮点-评测频道-哈弗SUV官网 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月13日 10:13 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#母亲节#  最好的时光，哈弗都愿与您相伴~ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月13日 08:51 来自微话题",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哈弗H6 1.5T手动挡钜惠1.6万 限量抢购抢完为止 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RXMp7tR ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 18:30 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[金牌导购]第60期：行走的教科书 新哈弗H9亮点大集合 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Raa54ZF ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 18:03 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[哈弗手册]第49期：匠心独运 聊一聊全新哈弗H6的设计密码 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaaPWwe ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 16:35 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "10亿红包+金融补贴 哈弗重磅推出“史上最大优惠” - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaXemgN ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 15:56 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哈弗与WEY携手入围央视国家品牌计划 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RXsn3wB ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月12日 15:27 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "新车档案：全新哈弗H6上市 售价11.88万元起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaXE7Ui ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 14:44 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "致敬“中国品牌日” 一张图速览哈弗品牌价值 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaXIljJ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 11:50 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖征集 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 11:03 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "利刃出鞘 新哈弗H8上演高性能试驾盛筵 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaXheiA ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月12日 09:46 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#新哈弗H8#5月11日，新哈弗H8媒体试驾会激情开启！全新动力、全新性能、全新安全、全新科技，哈弗高端标志车型全面升级。搭载ZF 8AT变速箱，匹配2.0T汽/柴涡轮增压发动机。新一代全地形控制系统和双速TOD智能四驱系统，新哈弗H8打造豪华高性能SUV新标杆！ 新哈弗H8上演澎湃潮流大片！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月12日 09:23 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "10亿红包+金融补贴 哈弗重磅推出“史上最大优惠” - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaioCEZ ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "05月11日 18:17 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哈弗与WEY携手入围央视国家品牌计划 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaiiOy1 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月11日 17:48 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "2017年4月销量快报：哈弗SUV月销超6.2万辆 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Rai4tkh ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月11日 16:11 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖征集 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月11日 11:26 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "致敬“中国品牌日” 一张图速览哈弗品牌价值 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaJGc9Y ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月11日 10:49 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#寻找最“6”生活#哈弗H6新车作业帖有奖征集   【活动奖品】一等奖：iPad Pro （32G） 3个二等奖：2000京东购物卡    5个三等奖：达喀尔金属车模     20个 http://t.cn/RaIXTFr ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月10日 16:37 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "2017年4月销量快报：哈弗SUV月销超6.2万辆 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaM7bni ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月10日 15:09 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "一等奖：新iPad (32G)二等奖：800元京东卡三等奖：300元京东卡 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月10日 09:04 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[哈弗手册]第66期：硬汉再塑 实拍新哈弗H9 http://t.cn/RayHXes ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月09日 17:19 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "订购全新哈弗H6惊喜享不停 首轮好礼大放送 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Rac92ff ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月09日 10:49 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖集 http://t.cn/RX3cj94 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月08日 18:25 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "全新动力 安全领航 新一代哈弗H6售价11.88万起 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Ra5uuYu ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月08日 18:18 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[金牌导购]第58期：一张图攻略 如何抢到特惠的哈弗H6/H2 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RXuQX6Q ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月08日 16:48 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "10亿红包+金融补贴 哈弗重磅推出“史上最大优惠” - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/Ra5CYVV ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月08日 16:48 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "安全性能超越合资 哈弗H7喜获C - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaG2O0I ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 18:27 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "易车：试驾新款哈弗H9 安全配置提升/换装8AT变速箱 - 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RaGvdBX ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 17:24 来自bShare分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "不负好春光——哈弗SUV春季自驾帖有奖集 http://t.cn/RX3cj94 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "05月07日 14:53 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "长城汽车荣登2017最佳中国品牌排行榜TOP50 哈弗品牌官网 - 哈弗—SUV领导者 连续13年中国SUV市场销量冠军 http://t.cn/RXuBZDO ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 10:59 来自bShare分享",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "4331"
+}

@@ -1,0 +1,329 @@
+{
+    "followers_num": "245",
+    "following_num": "768",
+    "id": "3070526191",
+    "name": "东莞常虹塑胶原料",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "食品级PA66 3426 美国杜邦_pa66吧_百度贴吧#上贴吧，找组织~# http://t.cn/RaqVYxj ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月08日 08:44 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "TPEE塑胶原料_tpee吧_百度贴吧#上贴吧，找组织~# http://t.cn/Rabm0GZ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 15:40 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "ABS改性料_abs吧_百度贴吧#上贴吧，找组织~# http://t.cn/Rab8RNw ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 15:10 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "改性PBT_pbt吧_百度贴吧#上贴吧，找组织~# http://t.cn/RabHWs6 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 14:53 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "改性PA6_pa6吧_百度贴吧#上贴吧，找组织~# http://t.cn/RabYXXZ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 14:36 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "改性PC_pc塑料吧_百度贴吧#上贴吧，找组织~# http://t.cn/Rab6zMY ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 12:30 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "销售透明TPU_tpu吧_百度贴吧#上贴吧，找组织~# http://t.cn/RabygD6 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 10:34 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "出厂TPV黑色90度_tpv吧_百度贴吧#上贴吧，找组织~# http://t.cn/Rab2ZPv ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 10:13 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "销售各种改性尼龙_pa66吧_百度贴吧#上贴吧，找组织~# http://t.cn/RabwEx4 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月07日 10:04 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "分享图片 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月06日 13:14 来自360安全浏览器",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "@M鹿M 我在 #明星势力榜# 内地榜上为你加油啦，哦。棒棒哒！明星势力榜第1位  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "05月06日 13:04 来自明星势力榜",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6674G33JNC010美国杜邦玻纤增强级》PA6674G33JNC010美国杜邦玻纤增强级东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCPA66& 74G33J& NC010美国杜邦& 玻纤增强级 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:52:25 来自新浪博客",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6673GM30HSL美国杜邦聚酰胺66》PA6673GM30HSL美国杜邦聚酰胺66东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompaPA66& 73GM30HSL美国杜邦& 聚酰胺66 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:51:01 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6673G30L-NC010美国杜邦尼龙胶料》PA6673G30L-NC010美国杜邦尼龙胶料东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCPA66& 73G30L-NC010美国杜邦& 尼龙胶料 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:46:34 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6673G30HSL-BK美国杜邦黑色尼龙》PA6673G30HSL-BK美国杜邦黑色尼龙东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialComPA66& 73G30HSL-BK美国杜邦& 黑色尼龙 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:45:12 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6673G30HSLBK416美国杜邦塑料米》PA6673G30HSLBK416美国杜邦东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompPA66& 73G30HSL& BK416美国杜邦& 塑料米 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:28:41 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6673G30HSL美国杜邦塑胶原料》PA6673G30HSL美国杜邦塑胶原料东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompanyLiPA66& 73G30HSL美国杜邦& 塑胶原料 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:27:40 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6670GB40HSL美国杜邦尼龙》PA6670GB40HSL美国杜邦尼龙东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompanyLimiPA66& 70GB40HSL美国杜邦& 尼龙 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 15:22:58 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6670G50HSLRBK509美国杜邦》PA6670G50HSLRBK509美国杜邦东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompaPA66& 70G50HSLR& BK509美国杜邦 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 11:08:43 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6670G50HSLABK039B美国杜邦》PA6670G50HSLABK039B美国杜邦东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialComPA66& 70G50HSLA& BK039B美国杜邦 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 11:06:09 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6670G50HS1L美国杜邦》PA66美国杜邦70G50HS1L东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompanyLimited联PA66& 70G50HS1L美国杜邦 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 11:05:03 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA6670G43L-NC010美国杜邦》PA6670G43L-NC010美国杜邦东莞常虹塑胶原料有限公司DongguanChangHongPlasticMaterialCompanyLiPA66& 70G43L-NC010美国杜邦 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-20 11:01:14 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "和是粉红色档分割的，3e24dfre如果你不满意你的现状，要么开始改变，要么就闭嘴。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-02-25 01:18:06 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "弃我而去而又重返的人2342342 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-02-19 20:55:01 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "rgerswfv终究是会干  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-02-17 21:20:00 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "平时是你好我好大家好，大块吃肉，大碗喝酒，不分彼此，亲如兄弟。而一旦到了倒霉的时候，就会有人坐视不管，看你笑话，有人落井下石，趁火打劫。于是，就会明白了谁是真朋友， 谁是坐视不问。明白了以后朋友该怎样交。致我生命中不离不弃的朋友！ 我在#东莞市樟木头塑胶原料市场# 东莞·东莞市优泰塑胶有限公司 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-06-21 13:03:17 来自三星android智能手机",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "POM 美国杜邦 500CLhttp://t.cn/RANoQsC 我在:莞樟西路 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-04-17 13:56:48 来自三星android智能手机",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 沙特APPC 1128N】 PP 沙特APPC 1128N供应PP印度薄膜级100EY；供应PP沙特基础工业公司拉丝级500P（机织，地毯）；注塑级575P，570P。 http://t.cn/Rz0kBQt  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 10:09:14 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 沙特APPC 1102K】 PP 沙特APPC 1102K供应聚丙烯PP SM-498马来大腾石化,硬质抗冲供应食品级1100NK(容器)、1102NK；供应PP韩国高透明食品级H1500，DJ-570S(韩湖南)；供应一般级BJ730、HJ730、J700；高刚性高韧性EP332K；高抗冲级440；拉丝级5014（用于渔网,绳索,捆扎绳)； http://t.cn/Rz0k0L5  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 10:08:06 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 沙特APPC 1100N】 PP 沙特APPC 1100NPP 1080  刚性良好、均聚物、耐热性高；应用：家用货品、电器用具、食品容器   PP  1124刚性高、良好的表面光洁度、耐热性高、均聚物、耐磨损性良好；应用：家用货品、电器用具、食品容器    PP 3040 抗 http://t.cn/Rz0kXPy  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 10:03:50 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 马来大腾石化 SM-950】 PP 马来大腾石化 SM-950PP 3204  射出成型品、汽车机车配件、保险杠、电池盒、工具箱、办公家具、运动器材   PP 5090T  耐化学性良好、清晰度高、无规共聚物；用途：皮下注射器配件、容器 USP认证     PP 2020 均聚物 http://t.cn/Rz0kVIO  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 10:03:25 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 马来大腾石化 SM-850】 PP 马来大腾石化 SM-850(10)PP 中石化茂名 EPC30G, EPS30R, 160, N-T30S, N-Z30S, T30S, V30G, Z30S, 9012M, F280M, F34E, HHP4, HT9020M PP (11)中石化上海 M800E, K4912 http://t.cn/Rz0kyP7  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 10:01:12 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【PP 马来大腾石化 SM-668】 PP 马来大腾石化 SM-668(1)PP 台湾台化 K1010, K1011, K1020, K7005, F1611, K1023, K1035, K2000, K4015 (2)PP 台湾台化 K4535, K8003, K8009, K8025, K8802, K8010, 1005, http://t.cn/Rz0DeuR  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:55:54 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "PA66 A3X3G7 德国巴斯夫：PA66 A3X3G7 德国巴斯夫 重要参数： 缺口冲击强度:13 断裂伸长率:3 % 弯曲模量:9200 MPa 热变形温度:250 ℃...文字版>> http://t.cn/Rz0DJhZ （新浪长微博>> 还在为微博的140字烦恼？你out啦~快来试试新浪博客的长微博工具吧！把你想说的话，想分享的照片合成一条微博发布。） ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:48:38 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "PA66&nbsp;A3X3G7&nbsp;德国巴斯夫 PA66&nbsp;A3X3G7&nbsp;德国巴斯夫，东莞常虹塑胶原料，常虹塑胶原料是一家专业从事塑胶原料销售的企业  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:48:02 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA66A3X3G7德国巴斯夫》PA66A3X3G7德国巴斯夫重要参数：缺口冲击强度:13断裂伸长率:3%弯曲模量:9200MPa热变形温度:250&#8451;PA66A3X3G7德国巴斯夫 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:47:47 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "PA66&nbsp;A3X3G5&nbsp;德国巴斯夫 PA66&nbsp;A3X3G5&nbsp;德国巴斯夫，东莞常虹塑胶原料，常虹塑胶原料是一家专业从事塑胶原料销售的企业  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:46:53 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发表了博文《PA66A3X3G5德国巴斯夫》PA66A3X3G5德国巴斯夫重要参数：缺口冲击强度:11断裂伸长率:3%弯曲模量:7100MPa热变形温度:250&#8451;PA66A3X3G5德国巴斯夫 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:46:33 来自新浪博客",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "PA66&nbsp;A3X2G7&nbsp;德国巴斯夫 PA66&nbsp;A3X2G7&nbsp;德国巴斯夫，东莞常虹塑胶原料，常虹塑胶原料是一家专业从事塑胶原料销售的企业  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:45:52 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "PA66 A3X2G5 德国巴斯夫：PA66 A3X2G5 德国巴斯夫 特性备注：特性：玻纤增强，红磷阻燃剂长期稳定性，具有优异的机械性能。 重要参数： 缺口冲击强度:11 断裂伸长率:3 % 弯曲模量:7100 MPa 热变...文字版>> http://t.cn/Rz0DwrL （新浪长微博>> 还在为微博的140字烦恼？你out啦~快来试试新浪博客的长微博工具吧！把你想说的话，想分享的照片合成一条微博发布。） ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-09 09:45:35 来自新浪博客",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "10660"
+}

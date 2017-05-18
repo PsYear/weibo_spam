@@ -1,0 +1,41 @@
+{
+    "followers_num": "31",
+    "following_num": "138",
+    "id": "5338969946",
+    "name": "DakHing滑板",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "德庆/DakHing滑板公众号 @DannyFei废柴@lungchai@JohnnieBanana@崛起滑板@FOCUS滑板店@SCC滑板中国俱乐部@BSSDIST@HIOM钩钩@德庆在线@SK滑板工作室@Volcano-火山滑板店 @CONVERSE中国@BDskateco@WSP-WenSkatePlaza@Ilovethesk@DROSHKY_SKATEBOARDS@ATDchina@NNS南宁滑板@FlowStreetWear 全文",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "04月02日 12:57 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "整理出来的部分精彩照片！感谢赞助商#I'M SKATER#  @DBH滑板  @沸点JUSTICE滑板  @引力滑板-sparkle  @鑫佰亿有限公司崛起滑板 @WHATSUP滑板杂志   @伐板元元    @极限公社旺旺 @chillhigh_official @小蚁运动相机 @吉之梦床垫还有合作媒体@kickerclub @德庆在线 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月01日 13:25 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "Ollie，是滑板动作的入门钥匙。如果这个动作基础打得够扎实，掌握得足够好，那么你练招的大门就会被打开，进步也会非常迅速。下面就给大家带来Ollie这个动作的第一视角教学，和以往的教学片不一样，纯第一视野会让你有种身临其境的感觉。——>http://t.cn/R6WYpFj WHATSUP滑板杂志的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月01日 12:41 来自微博 weibo.com",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#1985弧面趣味赛# 回顾：http://t.cn/RzUx3KJ（视频+照片）本次活动得到VANS、Black knight、双头燕、Peer、Whatsup、1985、Xsories的支持，我们预留了一部分礼品给不能到活动现场的滑手们，转发并评论本条微博即有机会获得礼品1箱！11月30日通过@转发抽奖平台 抽出2位幸运板友！1985弧面趣味赛 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-11-26 22:29:19 来自",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "5"
+}

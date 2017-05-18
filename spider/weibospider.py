@@ -153,7 +153,7 @@ class weibo:
            pageNum = (int)(selector.xpath('//input[@name="mp"]')[0].attrib['value'])
         pattern = r"\d+\.?\d*"
         for page in range(1,min(6,pageNum+1)):
-          time.sleep(1)
+          time.sleep(3)
           print('page:'+str(page))
           url2 = 'http://weibo.cn/u/%d?filter=%d&page=%d'%(self.user_id,self.filter,page)
           html2 = self.session.get(url2, headers=self.headers3).content
@@ -268,7 +268,7 @@ def spider_run(user_id):
     print('id:'+str(user_id))
     print ('全部微博数：' + str(wb.weiboNum))
     try:
-        if wb.weiboNum !=0:
+        if wb.weiboNum !=0 and len(wb.weibos):
             print ('关注数：' + str(wb.following))
             print ('粉丝数：' + str(wb.followers))
             print ('最新一条微博为：' + wb.weibos[0].decode('gbk') )#若filter=1则为最新的原创微博，如果该用户微博数为0，即len(wb.weibos)==0,打印会出错，下同
@@ -294,7 +294,7 @@ for i in user_post:
 		except Exception as e:        
 			print ("Error: ",e)
 			traceback.print_exc()
-			time.sleep(130) 
+			time.sleep(200) 
 			print("重试")
 	num += 1
 	print(num)
