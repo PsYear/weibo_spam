@@ -1,0 +1,409 @@
+{
+    "followers_num": "6084",
+    "following_num": "1522",
+    "id": "2859266014",
+    "name": "炒单的石头",
+    "weibo": [
+        {
+            "comment": "6",
+            "content": "转：刘福厚总会议上送出对联：上联，期货无大师，此一时彼一时。下联，人生有几何，多一回空一回。横批，迷途知返。  北京·朝阳公园 ",
+            "forward": "4",
+            "forward_flag": 0,
+            "time": "05月15日 15:50 来自iPhone 6",
+            "upvote": "6"
+        },
+        {
+            "comment": "26",
+            "content": "祝你生日快乐 ",
+            "forward": "13",
+            "forward_flag": 0,
+            "time": "05月12日 02:58 来自生日动态",
+            "upvote": "30"
+        },
+        {
+            "comment": "2",
+            "content": "根据相关法律法规和政策，该微博已被删除。查看帮助：http://t.cn/Rfd1A92",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月07日 14:32 来自iPhone 6",
+            "upvote": "2"
+        },
+        {
+            "comment": "2",
+            "content": "吃贵州风味，但这里有家面馆排大长队，也排上。 北京·三里屯北社区 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "04月30日 13:50 来自iPhone 6",
+            "upvote": "7"
+        },
+        {
+            "comment": "3",
+            "content": "@期货大伽 @花荣 @公安部刑侦局 @黄石法律援助 @人心黑暗叵测 @北京城头条 @程天根10642 @炒单的石头 @动力煤人 @东方财富金融终端 @公安部打四黑除四害 @公安部刑侦局 @宏源期货王承斌 @湖北卫视爱游我拍 @李大霄 @林哥看天下 @林哥看天下 @雷公资本 @老徐玩铁矿 @Marco_徐晓峰 @投资舆情  全文",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "04月29日 22:51 来自iPhone 6",
+            "upvote": "0"
+        },
+        {
+            "comment": "14",
+            "content": "做期货的都知道，由于外盘内盘不同步，交易日早上可以抢夜盘挂的单子，以前好像公平偶尔能抢到，现在却没再听说谁真正抢到过，即使有也是打的点位合适开盘成的。这块送的利润被谁拿走了？本来应该大家靠运气拼的，有猫腻了吧？@wk操盘手69 北京·酒仙桥 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "04月21日 08:41 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "10",
+            "content": "牛B，什么情况 郑州·国贸 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "04月14日 22:51 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "4",
+            "forward_flag": 1,
+            "time": "04月14日 16:25 来自iPhone 6",
+            "upvote": "2"
+        },
+        {
+            "comment": "15",
+            "content": "别急！可能是期货唯一成功之道 郑州·冉屯路 ",
+            "forward": "16",
+            "forward_flag": 0,
+            "time": "04月08日 21:02 来自iPhone 6",
+            "upvote": "42"
+        },
+        {
+            "comment": "48",
+            "content": "问一下，有炒单的现在还赚钱的吗 郑州·金水区 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "03月28日 18:58 来自iPhone 6",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "网上流传一句话，据说是马雅可夫斯基说的：“当社会把你逼到走投无路时，不要忘记你身后还有一条路，那就是犯罪，记住这并不可耻”。遍查典籍，并无出处。山东辱母杀人案曝光后，此句又开始在网上流传。马雅可夫斯基是列宁的忠实信徒，崇尚社会体制建设与法制，生活的时代又正值苏联的高速发展期，按理 全文",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "03月26日 06:43 来自iPhone 6",
+            "upvote": "6"
+        },
+        {
+            "comment": "6",
+            "content": "聊城这伙催帐人，丧尽天良，以匪夷所思之举欺凌妇女，纯为一群黑恶人渣。该妇之子，愤而拔刀，捅伤四渣，其中一渣死亡。若按旧时江湖说法，那就是为民除害。噫，奈何，法律无情，该子获刑二十年。能否网开一面、法放一隙，给该子减轻一点徒刑。噫，如此，给该子一个机会，给我们一个想头。 ",
+            "forward": "5",
+            "forward_flag": 1,
+            "time": "03月25日 12:31 来自iPhone 6",
+            "upvote": "7"
+        },
+        {
+            "comment": "9",
+            "content": "看成交量，所有品种直奔死鱼而去。终如所愿。 郑州·未来公寓 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "03月24日 17:34 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "8",
+            "content": "前段时间那些“爱国人”现在心情好吗 北京·莲花池 ",
+            "forward": "3",
+            "forward_flag": 0,
+            "time": "03月21日 17:19 来自iPhone 6",
+            "upvote": "0"
+        },
+        {
+            "comment": "10",
+            "content": "各行各业凡是能成功的，都有一个共性的特质：这些人一定是输得起的人，输了再来，最后就赢了。 北京·北京奥林匹克公园 ",
+            "forward": "15",
+            "forward_flag": 0,
+            "time": "03月19日 12:07 来自iPhone 6",
+            "upvote": "28"
+        },
+        {
+            "comment": "3",
+            "content": "没流动性就容易这，几人欢喜几人愁 郑州·金水区 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "03月17日 11:24 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "2",
+            "content": "北京这波，应该跟小学临近入学报名有关吧。幸好我... 郑州·金水区 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "03月17日 08:24 来自iPhone 6",
+            "upvote": "0"
+        },
+        {
+            "comment": "23",
+            "content": "降的太少 郑州·未来公寓 ",
+            "forward": "7",
+            "forward_flag": 0,
+            "time": "03月16日 16:56 来自iPhone 6",
+            "upvote": "7"
+        },
+        {
+            "comment": "38",
+            "content": "炒单的话谁PTA做的好能指教下不。我今天晚上开始终于不犯贱在上面亏钱了，因为我决定不做它了。 郑州·金水区 ",
+            "forward": "3",
+            "forward_flag": 0,
+            "time": "03月14日 23:54 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "3",
+            "content": "北京房价再度飙涨，惊呆。四万买的房子春节前稳定在不到七万。今天一问，要价十二万！金融街平均价二十万。三环之内平均价七万。原来成为亿万富翁没啥难的，怪不得说一个亿是个小目标。在华尔街含辛茹苦高薪打拼十几年，赶不上北京一个月的不劳而获一夜春梦。 ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "03月14日 16:20 来自iPhone 6",
+            "upvote": "2"
+        },
+        {
+            "comment": "3",
+            "content": "分享图片 ",
+            "forward": "27",
+            "forward_flag": 1,
+            "time": "02月27日 23:11 来自iPhone 6",
+            "upvote": "11"
+        },
+        {
+            "comment": "21",
+            "content": "期市的主要1套期保值2价格发现。交易目的1套期2投机。价格发现是综合参与所有交易者对经济金融及相关商品的了解去实现，只是权重不一对价格影响不同。机器人和程序化当然用于投机，但它只是利用其优势攫取利润，对价格发现和套保无任何意义。就像围棋若充斥阿尔法狗，谁还玩。@wk操盘手69  全文",
+            "forward": "11",
+            "forward_flag": 1,
+            "time": "02月27日 22:17 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "24",
+            "content": "期市的主要1套期保值2价格发现。交易目的1套期2投机。价格发现是综合参与所有交易者对经济金融及相关商品的了解去实现，只是权重不一对价格影响不同。机器人和程序化当然用于投机，但它只是利用其优势攫取利润，对价格发现和套保无任何意义。就像围棋若充斥阿尔法狗，谁还玩。@wk操盘手69  全文",
+            "forward": "34",
+            "forward_flag": 0,
+            "time": "02月27日 20:34 来自iPhone 6",
+            "upvote": "12"
+        },
+        {
+            "comment": "11",
+            "content": "又添神器，网吧可躺椅，盯盘累了直接睡 郑州·未来公寓 ",
+            "forward": "4",
+            "forward_flag": 0,
+            "time": "02月27日 19:48 来自iPhone 6",
+            "upvote": "19"
+        },
+        {
+            "comment": "11",
+            "content": "以前总有人讲郑州盘妖，现在还有人讲嘛，大连上海盘妖不妖 郑州·金水区 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "02月16日 15:25 来自iPhone 6",
+            "upvote": "8"
+        },
+        {
+            "comment": "7",
+            "content": "台老师很有情趣 郑州·未来公寓 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "02月13日 12:15 来自iPhone 6",
+            "upvote": "9"
+        },
+        {
+            "comment": "2",
+            "content": "元宵节继续到中信麦店薅羊毛。。。麦当劳中国CEO说2017年开始要将所有的烹炸油从棕油换成葵油和菜油，为棕油消费担忧，在消费升级的中国，棕油这样的穷人油消费确实不容乐观。。 ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "02月12日 01:02 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "2",
+            "content": "元宵节继续到中信麦店薅羊毛。。。麦当劳中国CEO说2017年开始要将所有的烹炸油从棕油换成葵油和菜油，为棕油消费担忧，在消费升级的中国，棕油这样的穷人油消费确实不容乐观。。 ",
+            "forward": "9",
+            "forward_flag": 1,
+            "time": "02月12日 00:49 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "13",
+            "content": "今天晚上吃酒，和堂弟聊起房子，当时我北京做公司，在双井百环家园，08年正值首城国际开盘，他忆起我当时公司开会专门讲，让他们砸锅卖铁（因我公司员工十余人全是亲戚朋友或同学的亲戚）或回老家找父母所有可能筹资去买。唏嘘不已，当时一万出头无限购低首付，现在近十万平。看对没做对的最值得后悔， 全文",
+            "forward": "3",
+            "forward_flag": 0,
+            "time": "02月11日 22:04 来自iPhone 6",
+            "upvote": "8"
+        },
+        {
+            "comment": "14",
+            "content": "台老师说，盘半个一个小时突然涨突然跌，这样的盘久炒必须亏。 ",
+            "forward": "11",
+            "forward_flag": 0,
+            "time": "02月11日 00:03 来自iPhone 6",
+            "upvote": "5"
+        },
+        {
+            "comment": "3",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月08日 12:21 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "0",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "4",
+            "forward_flag": 1,
+            "time": "02月05日 09:04 来自iPhone 6",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "去黑今玉 北京·798创意文化园 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "02月04日 19:34 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "9",
+            "content": "这这多头笑还是空头笑 北京·燕沙·后 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "02月01日 14:08 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "1",
+            "content": "最近有几个朋友紧张的参与了一个两亿的项目，从立项到上线筹备了整整一个月，结果很不理想！ 北京·酒仙桥 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "01月27日 23:21 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "#直播央视春晚# 【北方叫姥姥，南方叫外婆，你那叫什么？】有一个角色，在北方叫姥姥，在南方叫外婆，在吴语里叫好婆，闽南语叫阿嬷，粤语里叫婆婆…她说过的话，做过的事，你还记得多少？更多的是“胡撸胡撸毛儿，吓不着～”还是啪啪啪啪？！来听听@高晓攀  @尤宪超  的姥姥是哪种类型的，是不是跟你 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月27日 21:17 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "7",
+            "content": "今天热闹 北京·酒仙桥 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月27日 17:55 来自iPhone 6",
+            "upvote": "18"
+        },
+        {
+            "comment": "0",
+            "content": "这家肥肠十年前常吃，今天依然是原来味道。 北京·湘肠香火锅店 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月27日 13:42 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "2",
+            "content": "#突破20000# 刚开盘，道琼斯第一次突破20000里程碑，特朗普新政自2016年11月8日胜选以来，美股四大指数（道琼斯、纳斯达克、标普、罗斯）气势如虹，不断攀新高，道琼斯自2009年金融危机至今七年间，从6000多到20000多，说明包括中国人在内的海内外投资人对美国、美股和市场的坚定信心，对不？ ",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "01月25日 23:12 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "5",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "01月23日 17:42 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "2",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "4",
+            "forward_flag": 1,
+            "time": "01月23日 17:38 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "1",
+            "content": "[飞机]不会吧？！ ",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "01月15日 10:22 来自iPhone 6",
+            "upvote": "2"
+        },
+        {
+            "comment": "19",
+            "content": "是个好消息 北京·酒仙桥 ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "01月10日 16:46 来自iPhone 6",
+            "upvote": "5"
+        },
+        {
+            "comment": "8",
+            "content": "孩子学习，身边好几例，小时候及上学报各种兴趣班的辅导班，学习越来越差，反而是那些家长几乎没报班的，反而高中后成绩好。难道和期货一样？用力过猛并不是好事！ 北京·北京儿童医院 ",
+            "forward": "4",
+            "forward_flag": 0,
+            "time": "01月10日 10:11 来自iPhone 6",
+            "upvote": "6"
+        },
+        {
+            "comment": "5",
+            "content": "终如所愿，一团死水了 北京·燕沙·后 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月09日 22:18 来自iPhone 6",
+            "upvote": "3"
+        },
+        {
+            "comment": "4",
+            "content": "台老师说，中国从此不用再担心外族入侵，从水、土地到目前的空气，来一个死一个。 郑州·东风路 ",
+            "forward": "4",
+            "forward_flag": 0,
+            "time": "01月05日 11:57 来自iPhone 6",
+            "upvote": "14"
+        },
+        {
+            "comment": "3",
+            "content": "网友评论：中国股市尼玛的连赌场都不如，规则定好了，看了底牌，一看牌小，立刻换规则，怪不得欧美国家不承认你市场经济地位，瞧瞧自己干的事[哆啦A梦微笑]235的牌立马改成3个A ",
+            "forward": "6",
+            "forward_flag": 1,
+            "time": "2016-12-12 16:48:19 来自iPhone 6",
+            "upvote": "1"
+        },
+        {
+            "comment": "3",
+            "content": "触动到眼含泪光。http://t.cn/RIA4qPp 北京·酒仙桥 ",
+            "forward": "7",
+            "forward_flag": 0,
+            "time": "2016-12-11 16:39:47 来自iPhone 6",
+            "upvote": "4"
+        },
+        {
+            "comment": "6",
+            "content": "对期货做分析被打脸是常态。 北京·酒仙桥四街坊 ",
+            "forward": "5",
+            "forward_flag": 0,
+            "time": "2016-12-09 12:11:04 来自iPhone 6",
+            "upvote": "12"
+        },
+        {
+            "comment": "6",
+            "content": "炒蛋的慢慢要改炖蛋了。 北京·酒仙桥 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-12-04 18:45:05 来自iPhone 6",
+            "upvote": "4"
+        }
+    ],
+    "weibos_num": "1122"
+}

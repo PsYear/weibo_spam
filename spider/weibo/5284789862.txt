@@ -1,0 +1,401 @@
+{
+    "followers_num": "77",
+    "following_num": "1130",
+    "id": "5284789862",
+    "name": "尚准数码",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "#微卖#蓝色星星phone6plus硅胶软壳便宜啦!只卖￥28.00 蓝色星星phone6plus硅胶软壳 蓝色星星phone6plus硅胶软壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:06:18 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#蜡笔小新iphone6plus硅胶套便宜啦!只卖￥28.00 蜡笔小新iphone6plus硅胶套 蜡笔小新iphone6plus硅胶套 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:06:11 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#iphone6手机壳全包硅胶仿皮软壳便宜啦!只卖￥28.00 iphone6手机壳全包硅胶仿皮软壳 iphone6手机壳全包硅胶仿皮软壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:06:01 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#小丸子花轮情侣手机壳iphone6便宜啦!只卖￥28.00 小丸子花轮情侣手机壳iphone6 小丸子花轮情侣手机壳iphone6 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:05:54 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#涂鸦长颈鹿iphone6卡通保护壳套便宜啦!只卖￥28.00 涂鸦长颈鹿iphone6卡通保护壳套 涂鸦长颈鹿iphone6卡通保护壳套 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:05:42 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#唐老鸭苹果iPhone6手机壳硅胶便宜啦!只卖￥28.00 唐老鸭苹果iPhone6手机壳硅胶 唐老鸭苹果iPhone6手机壳硅胶 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:05:34 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#星空苹果iphone6手机壳仿皮硅胶便宜啦!只卖￥28.00 星空苹果iphone6手机壳仿皮硅胶 星空苹果iphone6手机壳仿皮硅胶 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:05:13 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#iphone6全包软壳超人便宜啦!只卖￥28.00 iphone6全包软壳超人 iphone6全包软壳超人 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:04:44 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#iphone6情侣硅胶手机壳熊猫便宜啦!只卖￥28.00 iphone6情侣硅胶手机壳熊猫 iphone6情侣硅胶手机壳熊猫 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:04:11 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#香蕉全包硅胶壳iphone6卡通软壳便宜啦!只卖￥28.00 香蕉全包硅胶壳iphone6卡通软壳 香蕉全包硅胶壳iphone6卡通软壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:04:02 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#叮当猫苹果iphone6手机套软壳便宜啦!只卖￥28.00 叮当猫苹果iphone6手机套软壳 叮当猫苹果iphone6手机套软壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:03:52 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#小丸子华伦iPhone6蚕丝手机壳便宜啦!只卖￥28.00 小丸子华伦iPhone6蚕丝手机壳 小丸子华伦iPhone6蚕丝手机壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:03:43 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#最新款iphone6手机壳硅胶软壳便宜啦!只卖￥28.00 最新款iphone6手机壳硅胶软壳 最新款iphone6手机壳硅胶软壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:03:33 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#最新款iphone6保护套硅胶软壳女便宜啦!只卖￥28.00 最新款iphone6保护套硅胶软壳女 最新款iphone6保护套硅胶软壳女 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:02:57 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#米奇黑猫iphone6全包硅胶壳便宜啦!只卖￥28.00 米奇黑猫iphone6全包硅胶壳 米奇黑猫iphone6全包硅胶壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:02:28 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#苹果iPhone6手机壳米奇胡子便宜啦!只卖￥28.00 苹果iPhone6手机壳米奇胡子 苹果iPhone6手机壳米奇胡子 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:01:39 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#iPhone6硅胶壳跑步机器猫便宜啦!只卖￥28.00 iPhone6硅胶壳跑步机器猫 iPhone6硅胶壳跑步机器猫 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:01:23 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#微卖#米奇黑猫iphone6全包硅胶壳便宜啦!只卖￥28.00 米奇黑猫iphone6全包硅胶壳 米奇黑猫iphone6全包硅胶壳 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-03 14:01:09 来自微卖客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "诺基亚手机的指令还记得多少？ 1、*#06#查IMEI、*#0000#查版本 2、*#92702689#是查看生产日期，查看通话时间等  3、*#7370#恢复出厂设置(软格机，C盘内容将全部会清空，后启新写入系统信息)。  4、*#7780#恢复出厂设置(此不同于格机，执行后改变了显示和设置，不会清除C盘文件) 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-01 16:16:07 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我在看【iphone使用技巧教程+常用必备软件+iphone顶级游戏推荐-百度文库】，分享给你，快来看！ iphone使用技巧教程+常用必备软件+iphone顶级游戏推荐 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-29 16:44:59 来自手机QQ浏览器iPhone版",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "安卓系统使用小技巧（适用任何机型）  汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-29 16:27:18 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "iPhone越狱后的性能优化  汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-28 14:16:52 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我在看【安卓系统50个使用技巧教程-搜狗网页】，分享给你，快来看！ 安卓系统50个使用技巧教程 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-27 17:09:12 来自手机QQ浏览器iPhone版",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "感恩节-跳蚤市场-L8热门-棉城聊吧-潮阳聊吧论坛-棉城论坛-棉城L8 - http://t.cn/Rz5n6kP  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-27 14:12:54 来自百度分享",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我正在@百度文库 阅读【三星手机使用技巧】这篇文章，推荐给大家！ http://t.cn/Rzqwbcs  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-26 14:22:41 来自百度文库",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "一血到手 西环城路 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-25 16:37:58 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我在看【别逗了！你以为你真的会用iPhone？看看第1条就歇菜了！】，分享给你，快来看！ 别逗了！你以为你真的会用iPhone？看看第1条就歇菜了！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-25 12:48:10 来自手机QQ浏览器iPhone版",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "优惠 （分享自 @棉城聊吧） http://t.cn/Rz45abv  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-24 16:29:55 来自棉城聊吧",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "三星测屏的详细方法  汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-23 12:46:54 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "三星指令全集 （分享自 @手机中国） http://t.cn/zQZ7ANH  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-23 12:25:15 来自手机中国",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "iOS8技巧：教你清除上方的最近通话头像教程_iPhone使用技巧 http://t.cn/RzL5ehF  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-22 14:07:33 来自百度分享",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "随时监测油温的聪明煎锅 可检查食物是否熟透 这锅有点强大 随时监测油温的聪明煎锅 可检查食物是否熟透  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-22 14:04:58 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "安卓5.0正式版评测：视觉大变革 兼容性欠佳 安卓5.0正式版评测：视觉大变革 兼容性欠佳  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-22 13:57:06 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "这些miniPC能轻松释放你的桌面空间_最佳选择 这些miniPC能轻松释放你的桌面空间  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-22 11:55:58 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "魅族MX4 Pro开箱：机身尺寸稍大 背部颜色改变 腾讯网  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-22 11:44:18 来自分享按钮",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我在看【三星Note4／Note　Edge十问十答--科技--人民网】，分享给你，快来看！ 这两款Note系列的细小区别！ 三星Note4／Note　Edge十问十答 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-21 12:11:27 来自手机QQ浏览器iPhone版",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "核心技术很重要核心技术很重  汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-20 20:42:42 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "棉城尚准数码换仓大回馈第一季！！！ 即日起至2014.12.19日到店出示HTC EVO 3D手机，即可领走HTC EVO 3D手机壳一个，快带上你的小伙伴们一起来吧~ 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-19 20:29:55 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "说下mx4pro不如m4的七点  汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-19 18:48:39 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "尚准数码，推出分时段免费活动。上午9：30~11：00  免费贴手机膜，中午11：30~18：00  免费刷手机系统，晚上电脑系统重装免费，上门费6折（配件除外）。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-14 16:18:46 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "尚准数码，推出分时段免费活动。上午9：30~11：00  免费贴手机膜，中午11：30~18：00  免费刷手机系统，晚上电脑系统重装免费，上门费6折（配件除外）。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-14 11:37:22 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "尚准数码，推出分时段免费活动。上午9：30~11：00  免费贴手机膜，中午11：30~18：00  免费刷手机系统，晚上电脑系统重装免费，上门费6折（配件除外）。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-14 10:13:14 来自",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "尚准数码，推出分时段免费活动。上午9：30~11：00  免费贴手机膜，中午11：30~18：00  免费刷手机系统，晚上电脑系统重装免费，上门费6折（配件除外）。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-13 17:42:04 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "尚准数码，推出分时段免费活动。上午9：30~11：00  免费贴手机膜，中午11：30~18：00  免费刷手机系统，晚上电脑系统重装免费，上门费6折（配件除外）。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-13 16:06:57 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "3",
+            "content": "尚准数码现退出等时段免费活动。欢迎光临！ 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-13 13:14:20 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "“双十一”优惠活动，买键盘送鼠标。你的鼠标由我买单，帮忙@的朋友进店购买再送神秘礼品。 另有IP5    大容量   64G    1850元/部帮忙@的朋友再送手机膜一张 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-11 12:31:52 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "“双十一”优惠活动，买键盘送鼠标。你的鼠标由我买单，帮忙@的朋友进店购买再送神秘礼品。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-10 17:06:36 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "“双十一”优惠活动，买键盘送鼠标。你的鼠标由我买单，帮忙@的朋友进店购买再送神秘礼品。 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-08 13:25:23 来自",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哇！现只需1850就能买到IPhone5   9成新   大容量    64G 汕头·麦当劳(杨柳商业大厦店) ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-11-07 14:23:18 来自",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "80"
+}

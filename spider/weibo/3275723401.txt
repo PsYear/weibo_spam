@@ -1,0 +1,345 @@
+{
+    "followers_num": "27",
+    "following_num": "101",
+    "id": "3275723401",
+    "name": "股市-内幕",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "300311昨天公开提示，成功涨停。今天再次强势封板。把握住的朋友目前已有20个点的收益。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-09-17 17:00:20 来自搜狗高速浏览器",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300297早盘推荐，成功涨停！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-09-17 16:54:47 来自搜狗高速浏览器",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "600837 海通证券 短期继续重点跟踪 拟收购葡萄牙投资银行BESI 600549 厦门钨业 建议逢低可吸纳介入布局 后市有望拉升有色行情 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-12-08 09:18:12 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "600158 中体产业 推荐关注 止盈：16.38 止损：14.80 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:29:47 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "000716 南方食品 推荐关注 机构票 止盈：18.48 止损：16.20 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:29:32 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002222 福晶科技 推荐关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:26:41 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002644  佛慈药业  关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:26:29 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300055 万邦达 注意跟踪此股今日是否突破压力平台上攻 环保概念 积极关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:14:06 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300253 卫宁软件 此股我们建议中线思路操作 目前回调即低吸介入增持布局机会 后期有望重回百元大关 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:13:18 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300162 雷曼光电 短期继续看涨 波段择机参与操作 体育赛场赛事受益参与者概念 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 09:12:03 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "早上好 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-21 08:38:48 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "000768  中航飞机  推荐关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:32:00 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002382 蓝帆医疗 推荐关注 机构票 止盈：29.28 止损：25.60 002166 莱茵生物 推荐关注 杀回马枪 止盈：29.49 止损：25.60 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:31:49 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300313 天山生物 逢低可吸纳参与操作 002432 九安医疗 短线继续跟踪 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:31:39 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "02499 科林环保 短线逢低波段适当参与 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:12:02 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "000725 京东方A 适当关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:11:52 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "大家早上好。新的一天，祝各位投资愉快！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-17 09:00:26 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "000898 鞍钢股份 推荐关注 机构票 止盈：4.49 止损：3.96 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:28:57 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002404 嘉欣丝绸 推荐关注 机构票 止盈：12.57 止损：11.00 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:28:45 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002148 北纬通信 此股中期我们看好 建议盘中择机介入潜伏 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:23:49 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002723 金莱特 建议盘中回调吸纳增持 游资私募继续控盘介入 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:15:35 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300314 戴维医疗 短线逢低积极关注 有望新高后继续上升 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:15:23 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "600030 中信证券 逢低适当吸纳增持 后市继续看多 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:15:14 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "2014-10-16（星期四）  1、欧美股市重挫 金价连续第三天上扬  2、多家股份行“认贷不认房”政策落地  3、沪港通预开户启动 门槛50万  4、楼继伟：加快房产税立法 使其成地方稳定收入源  5、埃博拉疫情继续蔓延   建议关注板块：医药板块 贵金属板块 券商板块 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:01:09 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "大家早上好。新的一天，祝各位投资愉快！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-16 09:00:53 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "四中全会临近，关于依法治国相关报道也将铺开，14日人民日报政文部微信公共账号刊发文章《四中全会前瞻：依法治国升级至2.0版》。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 10:24:10 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "中国CPI、PPI数据过后，股指冲高回落。9月CPI年率1.6%，PPI年率-1.8%，9月消费通胀放缓且工业物价加剧通缩，双双不及预期。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 10:03:44 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "券商板块持续反弹，指数涨幅榜居前。报道称，虽然沪港通正式\"通车\"的时间还没有确定，不过部分券商已经拿到了\"车票\"。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:54:25 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "埃博拉疫情防控不容乐观，预防、检测类标的持续受关注。防护概念欣龙控股涨停，红豆股份涨超6%，疫情检测主题达安基因同步上攻。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:54:11 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "000825 太钢不锈 推荐关注 双概念：新能源+核电 止盈：4.42 止损：3.82 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:28:41 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "601718 际华集团 推荐关注 双概念：埃博拉+军工 止盈：5.78 止损：5.15 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:28:31 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002024 苏宁云商 消息面有利好 适当跟踪 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:13:53 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "600522 中天科技 盘中逢低吸参与 后期继续看涨 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:13:20 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002501 利源精制 波段继续关注 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:13:02 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "2014-10-15（星期三） 1、9月CPI今公布或回“1”时代 涨幅恐创年内新低 2、央行正回购利率下调10个BP 年内降息可能性大增 3、供需矛盾加剧 油价周二暴跌4.6% 4、沪港通有望本月27日通车  5、俄罗斯出现大量资本外逃，俄央行60亿美元拯救卢布计划失败   建议关注板块：军工板块  保险板块   传媒板块 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-15 09:04:22 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300148 天舟文化 前三季度业绩预增650% 后市看好 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 09:31:59 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "002329 皇氏乳业 推荐买入 机构票 止盈：22.11 止损：19.60 300362 天保重装 推荐买入 机构票 止盈：32.04 止损：28.30 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 09:26:12 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300084 海默科技 页岩气概念继续有政策和行业利好 重点关注操作 600316 洪都航空 继续推荐跟踪 择机参与操作 后市值得期待 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 09:22:48 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "300003 乐普医疗 逢低短线重点参与 300200 高盟新材 继续逢低吸纳增持 看好后期 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 09:19:20 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "2014-10-14（星期二） 1、第五批IPO批文或于本周下发 2、机构集体大调仓：减持题材股增持医药消费 3、新兴清洁能源崛起 光热发电有望迎来发展 4、沪港通上线时间未如期公布 首批券商获业务资格 5、美股延续上周跌势 纳指三个交易日重挫5.7%  建议关注板块：铁路板块   医药板块   机械板块 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 09:00:02 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "大家早上好 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-14 08:33:18 来自FaWave",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "大家晚上好 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-10-13 18:58:27 来自FaWave",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "44"
+}
