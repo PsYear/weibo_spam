@@ -1,0 +1,409 @@
+{
+    "followers_num": "313",
+    "following_num": "291",
+    "id": "1400924633",
+    "name": "强尼的新围脖",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "#黄油相机#「免费领取！今年的圣诞照片就用黄油相机的贴纸和字体来装饰吧～」 http://t.cn/RIOkdK3 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-12-24 17:06:53 来自黄油相机",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "Demetri Portelli 的知乎 Live: [闪电]《比利·林恩》立体摄影师亲自揭秘 120 帧背后的故事 http://t.cn/RIUDUYZ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-12-13 19:51:39 来自知乎客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "去年探班时，梅导说：我的戏总是带着观众走，但不会留给你去猜想的时间，你也猜不到我会怎么讲这个故事。喜欢战争、热血、信仰、励志电影的同学有空可以去影院看一下《血战钢锯岭》，绝对值回票价！ 澳大利亚·悉尼 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-12-09 21:43:01 来自iPhone 6s Plus",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "R.I.P ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-11-26 13:48:34 来自iPhone 6s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "科技篇：为了更有效率地完成拍摄女神@高圆圆 的过程，特地请来了一同为张艺谋导演的《长城》#电影长城# 效力过的SJ Works@lymchotdog 团队担任我们的数据管理、现场套色以及iPad无线回放，让120帧甚至200帧拍摄及回放在现场变得灵活自如。在对前沿技术的探索与实践中，我们的脚步从未停歇。谢谢今天订 全文",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "2016-11-24 23:18:10 来自iPhone 6s Plus",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "新作品 高圆圆 X 花点时间 联合设计款客户 Client：花点时间导演/摄影 Director/DOP：Johnny Chen文案 Copywriter：马睿美术 Production Designer：王希化妆 Make-up: 张人之造型 Stylist：赵同艺人经纪 Actor Agent： 张丽丽花艺指导 Florist: 刘旻佳制片协调 Coordinator：郭肇州数据管理  全文",
+            "forward": "4",
+            "forward_flag": 0,
+            "time": "2016-11-23 21:47:28 来自iPhone 6s Plus",
+            "upvote": "9"
+        },
+        {
+            "comment": "0",
+            "content": "贝克汉姆最新广告大片，最后那个镜头亮了！[doge]秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-02-09 22:13:50 来自iPhone 6s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "独树一帜的徕卡DMR一瞥 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-07-26 10:38:34 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "就喜欢简单高效！我在用@Weico微博客户端，智能夜间模式、个性定制阅读环境、还有离线模式节省流量！想体验更好？戳链接下载Weico Pro 4:正在连接到 iTunes Store。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-07-18 12:42:28 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "@攝影師蔡崇輝 收吗？ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-07-16 08:52:09 来自WeicoPro",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "很震撼，说一些观影后的感受。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-07-15 11:11:48 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【华南理工大学公开课：建筑历史】这里综述了中国建筑历史的概貌和外国建筑发展的基本历程，并选择了中国古塔、拱顶与穹窿、城市秩序三个专门的话题，来展开较为详细和深入的讨论。全集在线》》中国古典建筑 更多#建筑公开课# 》建筑公开课汇总-设计文章及教学-建筑视界 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-07-12 10:44:11 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "1945年的上海，by Walter Arrufat，http://t.cn/RLANSAx ",
+            "forward": "2",
+            "forward_flag": 1,
+            "time": "2015-07-06 17:33:28 来自WeicoPro",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "就喜欢简单高效！我在用@Weico微博客户端，智能夜间模式、个性定制阅读环境、还有离线模式节省流量！想体验更好？戳链接下载Weico Pro 4:正在连接到 iTunes Store。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-07-06 17:31:36 来自WeicoPro",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "唯美的创意！！！！宏大的场面！！！！令观众震惊！！！！！中国第一部科幻大片！！！！出品方还很有钱！！宣传海报在新街口地下覆盖了半壁江山。这个作品到底是想表达什么啦！！我确实是震惊了！ http://t.cn/RwM5fN0 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-06-24 21:24:47 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "美国摄影工会对“低成本影片”从业人员的薪资标准。一类预算影片，低于550万美元；二类预算，550至935万美元；三类预算，935至1320万美元。你赚得比美国同行多吗？ ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "2015-06-17 07:55:23 来自WeicoPro",
+            "upvote": "0"
+        },
+        {
+            "comment": "2",
+            "content": "@邓传玖 @周家宏KelvinChow 今晚的表演赞了！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-03-12 00:32:53 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "The magic hour @邓传玖  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-03-09 11:04:18 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "这哥们儿站在地铁上专注地看【五十度灰】，大家都醉了...  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-03-07 13:45:12 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "震惊！！东西就这么被偷了！常旅行的朋友一定要看。 （分享自 @优酷） 震惊！！东西就这么被偷了！常旅行的朋友一定要看。  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-03-06 07:45:38 来自优酷土豆",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "梦工厂动画电影《home》本月北美上映，蕾哈娜Rihanna献唱单曲《Towards the Sun》（心向日照），这也是山东歌手Rihanna在潍坊的爱（we found love）、威海油饼（where have u been）之后，又一首山东主题曲。Rihanna - Towards The Sun (from The 'Home' Soundtrack) ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-03-06 05:34:27 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【视频：  扎克伯格的中文新春问候】 （分享自 @优酷） 扎克伯格的中文新春问候  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-02-22 08:25:31 来自优酷土豆",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "奥巴马玩自拍，为全民医保拉票拍广告 奥巴马玩自拍，为全民医保拉票拍广告 ",
+            "forward": "3",
+            "forward_flag": 0,
+            "time": "2015-02-13 17:08:25 来自优酷iPhone客户端",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "昨天录职来职往，没控制好自己，生气了。想了很久，觉得，年轻真好，老了才会压抑。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2015-02-09 09:37:48 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "Codex Cam的各种应用 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-02-08 21:15:00 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【#最强贺岁档#《狼图腾》发终极预告海报】@电影狼图腾 同时揭幕两版海报及2分钟终极预告片视频：电影《狼图腾》120s终极预告片 导演让·雅克·阿诺携全体剧组奔赴茫茫草原，并启用真正的狼参与影片拍摄，花费四年时间驯养三代蒙古狼与演员@冯绍峰 @窦骁 等共同演绎这个残酷壮绝的故事。→http://t.cn/RZD46Ly ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "2015-02-02 15:14:19 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "1",
+            "content": "剧照摄影师@叫兽易小星  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2015-01-22 23:27:34 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "中国人没拍出来的东西被美国人先拍了。美剧【马可波罗】12月12日开播。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-11-24 06:41:42 来自Weico.iPhone",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "@张科民 我哪儿敢说您谈得不好[哈哈][哈哈][哈哈] ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "2014-10-31 18:46:25 来自Weico.iPhone",
+            "upvote": "4"
+        },
+        {
+            "comment": "1",
+            "content": "拍摄前准备充分，拍摄时才不会抓瞎！广告圈的制片组、摄影组同学们，请花点时间看完这个视频。在下次开机前向你的客户申请半天设备测试的费用，拍摄时他们会发现这钱花得有多值。Proper camera prepping is worth every penny! http://t.cn/RhHNFlA  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-09-26 21:08:35 来自腾讯视频",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "拍数字就会放肆，但胶片就是克制。还在玩胶片的同学们，且拍且珍惜吧。 ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "2014-08-01 07:45:49 来自Weico.iPhone",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "经过一番商量，@叫兽易小星 决定把这台车撞毁。虽说是自己的车，也不用这么霍霍吧？#万万没想到# ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-07-29 19:45:06 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-07-26 15:01:17 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-07-26 12:46:13 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【《摇滚年代》特效分解及特效总监采访】Digital Domain为汤姆克鲁斯主演的《摇滚年代》制作特效是隐形的，特效不留痕迹完全融入了影片，DD通过数字手段为影片的故事服务。全文：http://t.cn/RPwiMwF Rock of Ages 摇滚年代 特效分解 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-07-18 19:48:17 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "蜘蛛侠特效拍摄 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-07-18 13:21:25 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "哥斯拉特效拍摄 机身：Arri Alexa Studio 镜头：Panavision C Series, Cooke, AWZ，ATZ，PVintage ",
+            "forward": "2",
+            "forward_flag": 0,
+            "time": "2014-07-16 23:56:13 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "1",
+            "content": "该微博因被多人举报，根据《微博社区管理规定》，已被删除。查看帮助：http://t.cn/Rfd14WY",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "2014-07-12 07:41:49 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "上海虹桥机场安检绝对是乱来的。两瓶150ml液体说一瓶可以过一瓶不可以过，同样一瓶昨天可以过，今天不可以过。安全查如此随意，安检队长编号HQ0166说不能给出一个解释。@航旅直通车-虹桥机场航站楼 @虹桥机场服务大使 @中国安检信息网 @中国海关杂志  上海·上海虹桥国际机场 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-07-09 16:30:54 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "刚看到一组图片，车间里的90后，感动于他们平凡的梦想，和火树银花的发型。对于所有有勇气追逐梦想的人们，我想对他们说，妳扪眞旳遈⑴級棒，2０1㈣殺ㄢ特歭續赱紅シ！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-06-14 19:57:15 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "2",
+            "content": "别再浪费纳税人的钱了！ ",
+            "forward": "1",
+            "forward_flag": 0,
+            "time": "2014-05-05 08:15:29 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "吐血整理了九个炫酷、惊艳、高大上、超实用的生活小技能，居家旅行必备，，，请仔细学习、好好收藏、转发分享！！！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-04-07 20:43:11 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#白日焰火# 3.21全国公映“熊熊燃烧”。这一天恰值“春分”，昼夜等长，草长莺飞，万物复苏。这一天我们用爱破冬，用人心化开冰雪，与你不见不散！ @廖凡 @桂纶镁 王学兵@王学好  ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-02-28 13:55:08 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[耶]点下午茶 @张科民  ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2014-02-15 17:20:30 来自Weico.iPhone",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "#V电影推荐##波兰战争动画短片【仇恨之路】 http://t.cn/S76EJ7 片曾获法国昂西动画节短片特别提及奖，出自波兰顶级CG工作室Platige Imag。一对在空中执行任务的战机，纠缠厮打，不断降低的原料与子弹，逐渐破碎的飞机，两个实力不相上下的对手，激战愈演愈烈。全文：http://t.cn/8FKLW6L ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-02-14 15:53:01 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#光环之后#由金牌主持@吴宗宪 监制的乐视自制精品大剧《光环之后》今日火爆上线！昔日红星@賴琳恩Lene 豪门梦碎；当红天后@王思佳Sophia 步步坠落；娱乐圈新人@黎卉淇 @小蠻Shuan 玩转女人心机……女星踏上成名之路如何“自我奉献”？明争暗斗谁更胜一筹？第1集猛戳： 光环之后01 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-02-14 14:44:52 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "碉堡了的化学物理现象！！！学霸来解释下吧！ ",
+            "forward": "3",
+            "forward_flag": 1,
+            "time": "2014-02-14 14:27:08 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "勇探拔錯鎗... ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-02-12 17:06:10 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我喷了，你呢~[嘻嘻][哈哈][哈哈] 视频：7分钟央视直播爆笑失误合集 ",
+            "forward": "1",
+            "forward_flag": 1,
+            "time": "2014-02-11 19:22:02 来自Weico.iPhone",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "去广州，在广深高速上遇到从东莞上来的央视采访车，应该是刚刚成功扫黄载誉而归呢，前后都没有车牌。看来法律对于满身道德正能量的央视记者们是不需要了。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2014-02-11 11:52:01 来自Weico.iPhone",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "998"
+}

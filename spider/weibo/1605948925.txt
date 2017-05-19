@@ -1,0 +1,401 @@
+{
+    "followers_num": "163",
+    "following_num": "498",
+    "id": "1605948925",
+    "name": "cindy-上善若水",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "【精挑细选的小白】依旧单反一台，拿去留住最美的瞬间，抱走不谢！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月18日 08:21 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#转发有奖# 抽出wacom手绘板一块，创意方舟（第90-92期），原画设计班（06月15号开班），原画基础班班（06月15号开班），原画暑期班（07月05号开班），企业深度合作，直接输送学员参与游戏企业团队就业实训，专业游戏培训+实训，优秀导师、专业课程、实战结合。教师作品：http://t.cn/RtAcHI4报名热 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月18日 08:17 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【育儿君派送】继续两台kindle，送给爱读书的你们，喜欢的拿走~[二哈] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月11日 22:26 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#作品赏析# 一口气拷了800多张这位大大的作品！下一发送上下载链接！[拍手][拍手]作者：法国自由概念艺术家、插画家Alexandre Chaudret作品链接：eyardt.artstation.com（上） ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月09日 08:49 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#大约专访#第三十五期我们请来了@Pei-Gong ，刚入行窝在十几块钱一天的求职公寓，洗澡和上厕所都成了奢望，被认为没有天赋的他后来却参与了入围奥斯卡的动画，成为了资深概念设计师。 大约｜Pei-gong：努力才能变成别人眼里的天赋 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月08日 22:33 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "国画花卉画法 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月08日 15:48 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "当你自己选择了与众不同的生活方式后，又何必在乎别人以与众不同的眼光来看你。—— 多丽丝莱辛 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月08日 09:23 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "发布了头条文章：《干货来了！如何在LOGO 设计中运用好留白？》 干货来了！如何在LOGO 设计中运用好留白？ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月06日 10:38 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "1",
+            "content": "关于虾的一切都喜欢  ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月05日 08:41 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "整理了一下思路和设计过程希望对大家创作有帮助 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月04日 08:49 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "父母情绪稳定，对孩子到底有多重要？ 父母情绪稳定，对孩子到底有多重要？ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月01日 12:27 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "台湾大学周志文教授：守候着我的“笨”女儿，直至她花开烂漫 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月01日 00:41 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "耶鲁大学跟踪研究40年，发现1-14岁孩子的成长密码……强烈建议收藏！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "05月01日 00:24 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#国际艺术大观# 妈妈年轻时，也应如此美。Belichenko . Boohtiyarova 的油画 【高清作品下载：http://t.cn/R6prW2s】 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月22日 20:36 来自OPPO R9s Plus",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "【PS进阶教程！5步教你制作绘制睡梦插画】作者：DAN Gartman  优设小编@浅浅浅浅默_W      配色美美的插画，方法很简单，一起来试试吧！  素材链接→pan.baidu.com/s/1dEXxLPB   记得在评论下方交作业[doge]    上期作业最佳者：@刚刚吃完鸡蛋   #优设每日作业# ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月17日 09:08 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#国际艺术大观# 英国画家 TOM MOSTYN 作品欣赏 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月15日 22:13 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "十年之约[心]薛之谦和张信哲同台演绎《王子公主》，时空交错，珠联璧合，用最感人的声音唤醒金曲。[心] 秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月15日 22:10 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "做了一个小教程~[哆啦A梦微笑]，《型的理解 | 我帮你分析绘画》，根据理解附带了一些快速的小练习，对了~文章中说的福利，是真的有~[二哈] ~更多:http://t.cn/RxmpZvX ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月14日 10:18 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "英国画家 John Walsom 一组水彩城市绘画作品（ www.johnwalsom.co.uk ） ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月12日 08:24 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "历史上一百顶著名的皇家皇冠图鉴 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月12日 07:30 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "这些过程图集中地说明了我的描绘原则：1搭框架，2建团块，3刻画，4质感，仿佛纸上用铅笔在雕塑。每一步骤有观察有感受、有分析。机敏的艺术行为，绝不是所谓＂天才＂的大笔一挥。看这些过程图，你一定会有条理性。——冉茂芹 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月08日 22:48 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "印度尼西亚插画师 Niken Anindita 一组空灵幻想插画[浮云][浮云] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月08日 22:33 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#作品赏析# 喜欢作者的这九张~[给劲][给劲][给劲]作者：美国概念艺术家、插画家Ryan Richmond作品链接：ryanrichmond.artstation.com（更多作品打包下载→pan.baidu.com/s/1nv5CBqD 密码：q9cu） ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "04月05日 17:57 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【韩国插画师 JaeHoon Choi 一组黑白线性插画】（www.behance.net/plato_o） ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月30日 20:25 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "浙江宁波画家华山川（1930—2004）的《轻舞霓裳》仙女工笔画 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月24日 18:35 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【TED演讲：人工智能的时代正在来临】不管你愿不愿意开不开心，人工智能都是科技的必然发展方向，新的时代正在来临，你，准备好了吗？TEDtoChina的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月21日 23:03 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "给你一张色卡，你能玩出什么创意？ 来自Arvid Volz . 秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月20日 23:25 来自OPPO R9s Plus",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "有生之年系列，Max竟然和Han接吻了！[污]这小表情也太绝了！[笑cry]-《破产姐妹》秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月16日 12:13 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "一组深度漫画，你被哪张震撼到了？ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "03月05日 10:28 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "彩铅蜂鸟过程图，转发的小伙伴抽奖一份来自日本的小礼物[哈哈][哈哈][哈哈] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月27日 08:47 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#光翼教程#手是很多同学绘画中遇到的难点，往往让人觉得无从下手。这次我们的助教老师小星制作了一个将手化繁为简的教程，希望能够帮助到被“手”折磨的同学~()   ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月13日 21:04 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "李光洙主演了赵石漫画改编的电视剧《心里的声音》，全程高能要笑疯了，真的好紧张！[笑cry]微博电影工厂的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月11日 18:47 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "我写了一首小情歌，这是一首简单的歌，一首想要游戏公司还我血汗钱的歌[微笑] 音频在这[向右]http://t.cn/RJ4khCO 万星人的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月08日 21:09 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#优设每日作业# 【PS基础教程！教你制作一个逼真的面包】作者：Stephen Peterany   优设小编@鱼露没有鱼   不吃早餐很痛苦系列，超逼真，有没有！   记得在评论下方交作业[doge]  上次作业最佳者@努力的我__ @-CQW ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月08日 08:38 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "年初十了，两辆儿童电动车给你们！颜值爆表！拿好不谢[哆啦A梦微笑] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月07日 13:51 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "日本插画师 吉田诚治（Yoshida Seiji ）一组插画设计步骤图 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "02月02日 08:49 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#陈伟霆的红包#Boomshakalaka！我在William威廉陈伟霆 的红包中抽到了@微博会员 提供的“50元会员红包”，2017年的小惊喜！也许你的惊喜更大哦~William威廉陈伟霆 的红包 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月28日 12:56 来自粉丝红包",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#李易峰的红包#Boomshakalaka！我在李易峰 的红包中抽到了@微博电影 提供的“电影代金券”，2017年的小惊喜！也许你的惊喜更大哦~李易峰 的红包 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月28日 08:34 来自粉丝红包",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "转发这只鸡，零点后抽一位粉丝送人民币999元，平台开。祝各位好运。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月28日 00:41 来自三星Galaxy NOTE III",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "秀芹，你还没洗手…… ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月19日 15:17 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "请强行艾特一个人！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月15日 00:33 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#杂图志# John J. Park近期 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月12日 09:34 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "抽奖啦！抽奖啦！今天很高兴在艺师绘和大家分享我的公开课，2个小时速涂的蓝色金刚鹦鹉，突破了自己速度极限哈哈，关注Bonnie-Zou波波安 微博并转发艾特三位爱画画好友即可参与抽奖活动，抽出两位中奖者将分别获得今天晚上的示范图《蓝色金刚鹦鹉》原作和《birds》—外文绘本，转发的朋友凭转发截图还 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月11日 21:52 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【40万粉福利】开博以来最长福利清单转发+关注@省钱欧巴 从转发中抽2017位幸运者，随手转发，幸运降临！1月20日抽1人|  Apple MacBook1月19日抽1人|  IPhone7Plus 128GB1月18日抽1人| 清空4999元年货购物车1月17日抽1人| Apple ipad air21月16日抽1人|  Apple watch 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "01月08日 22:07 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#优设每日作业# 【PS基础教程！教你合成梦幻蜗牛场景】作者：Jenny Le  优设小编@恨不为武周   我要一步一步往上爬，总有一天我有属于我的天，来一起学习吧！素材链接→ http://t.cn/RIRTReR  记得在评论下方交作业哦[抱抱_旧] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-28 09:02:18 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【40万粉福利】开博以来最长福利清单转发+关注@省钱欧巴 从转发中抽2017位幸运者，随手转发，幸运降临！1月20日抽1人|  Apple MacBook1月19日抽1人|  IPhone7Plus 128GB1月18日抽1人| 清空4999元年货购物车1月17日抽1人| Apple ipad air21月16日抽1人|  Apple watch 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-17 23:59:19 来自荣耀V8 脱影而出",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[给力]姐开博以来最大型福利！转发+关注@淘白菜姐 从转发中抽取1188位幸运者，随手转发，万一中了呢？！1月15日  抽1人| Apple MacBook  1月14日  抽1人| iPhone7Plus 128GB               1月13日  抽1人| 清空4999元购物车             1月12日  抽1人| Apple ipad air2          1月11日  抽1 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-14 23:47:50 来自荣耀V8 脱影而出",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "NO.193#本土插画师推荐# 来自插画师@猪乐桃 的插画~~谢谢童年有你~ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-11 22:47:49 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "【植物手绘的正确打开方式】线稿：Lamy钢笔、f尖；颜色：touch马克笔+辉柏嘉  （投稿：@Iamwhatiam-songwei ） ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-12-05 21:38:47 来自三星Galaxy NOTE III",
+            "upvote": "0"
+        }
+    ],
+    "weibos_num": "1086"
+}
