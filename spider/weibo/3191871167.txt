@@ -1,0 +1,409 @@
+{
+    "followers_num": "197",
+    "following_num": "348",
+    "id": "3191871167",
+    "name": "走吧Eleanor",
+    "weibo": [
+        {
+            "comment": "0",
+            "content": "#看过《年轻时候》# http://t.cn/RLZCGIf 来自@豆瓣App ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月22日 22:31 来自豆瓣",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#想看《21克》# http://t.cn/RqfqEX0 来自@豆瓣App ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月22日 22:27 来自豆瓣",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#看过《神探夏洛克  第二季》# http://t.cn/Rq2b1IZ 来自@豆瓣App ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月22日 17:57 来自豆瓣",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "#看过《神探夏洛克 第一季》# http://t.cn/Rw62Vy6 来自@豆瓣App ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "01月22日 17:56 来自豆瓣",
+            "upvote": "0"
+        },
+        {
+            "comment": "2",
+            "content": "在我看来，如果你想在任何形式的学习中取得成就，就必须带有精英主义的意识。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-12-06 11:01:26 来自Android",
+            "upvote": "4"
+        },
+        {
+            "comment": "2",
+            "content": "李博在国内的地位如何？-28个回答，87人关注，http://t.cn/RfMyEQ1（想看更多？下载@知乎App：知乎）笑，死，了。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-11-18 20:35:47 来自Android",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "记复习之前最后一次在学校跑步:听的万青；穿了两件单衣；跑了十公里；用时50分钟；我的烂鞋情况良好还能再战一些时日；状态良好；右脚舟骨错位导致的扁平足被我选择性遗忘。回宿舍怒啃三个苹果。没买到酸奶。洗澡时没抢到有门的单间。就这样。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-11-10 21:42:53 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "0",
+            "content": "王力宏组曲 来自:美国伯克利音乐学院 王力宏组曲 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-08 21:05:57 来自Android",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "#街头艺人#【巴西街头的吉他牛人 - 摇摆的苏丹(恐怖海峡)】Sultans Of Swing 是全世界都流行的摇滚经典，Willian Lee 演奏这首弹的6，街头的巴西人也真的是很友善！像他这样的吉他手竟然愿意上街头表演，是不是巴西的音乐工作难混啊？Steven_爱音乐的秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-11-07 00:01:48 来自vivo智能手机",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "啥时候才他妈是个头啊？！ ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-11-03 07:17:49 来自vivo智能手机",
+            "upvote": "1"
+        },
+        {
+            "comment": "2",
+            "content": "一开始我坐在公交最后一排，左前方坐着一对像是好朋友的女孩，靠窗的女孩戴一顶小礼帽（我不知学名），后来这位礼帽女孩先下了车，两站后她的朋友也下了。这时又上来一对女孩坐到刚才的位置上，靠窗的女孩也戴一顶款式相似的漂亮礼帽（！）。过了几站，礼帽女孩又先她的女伴下了车（！）。That's all. ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-31 18:52:20 来自vivo智能手机",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "祈福郭川 | 在航海界他是神一样的存在！了解船长的征途，才知男人的伟大！-作者：勇气君，http://t.cn/RVQfACp（想看更多？下载@知乎App：知乎） ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-27 16:49:17 来自知乎客户端",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "[广告] ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-25 12:29:03 来自vivo智能手机",
+            "upvote": "3"
+        },
+        {
+            "comment": "3",
+            "content": "往后中午不睡了。可是这么多年的午休习惯……我总得逼自己一下，毕竟时间紧。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-17 23:03:38 来自vivo智能手机",
+            "upvote": "2"
+        },
+        {
+            "comment": "0",
+            "content": "齐柏林飞艇down by the seaside，伍佰的极地之歌，其实表达了同样的内容，即面对广博地球和浩渺宇宙的敬畏和无争且环保度日的希冀，只是前者更含蓄一些。对于我来说，我可怜的意志其实经不起推敲，因为我既想成为无情的反人类主义者，又离不开人类社会所发展出来的一切。这种矛盾让我明白，让我简单。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-12 22:50:55 来自vivo智能手机",
+            "upvote": "2"
+        },
+        {
+            "comment": "0",
+            "content": "认识吉他、贝斯琴弦包装上的各种名词标识 #MG设备#琴弦可能是经常被大家忽略的对于声音影响非常大的因素之一，为了让你不迷失在这眼花撩乱的各种规格和品牌之中，我们就来为你解释下弦的各种专有名词，帮你理清其中的门道。包括木吉他、电吉他、电贝司的各种琴弦规格及其对声音的影响，不同的琴弦缠绕方式，弦芯的材质及方 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-10-09 12:04:20 来自vivo智能手机",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "Michael Jackson不会乐谱，但他写歌连和弦构成音都给想好了 如果你有听过上面这个早期Demo 版的《Beat It》，你就会知道Michael Jackson 他写歌的方式相当的异于常人——用自己的声音“唱”出每一轨，每个和弦、和声、旋律、bass，甚至用beat-box 唱出节奏。而把每一轨声音合在一起的结果会让你大吃一惊。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-10-09 12:03:49 来自vivo智能手机",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "也许我早该意识到，Zakk Wylde不是一个吉他手，而是一个吉他运动员。他做的事情简单得和最优秀的体育健将们一样，挑战生理和心理极限，打破纪录。Zakk本身就是一个励志故事，不管是吉他还是生活，因为这样的演奏水准，必定代表了一种质量无可质疑的自律的生活。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-10-08 23:01:35 来自vivo智能手机",
+            "upvote": "7"
+        },
+        {
+            "comment": "0",
+            "content": "想象世界上每一名儿童都享有同等的权利和机会。在联合国儿童基金会的号召下，来自超过140个国家的数千名普通人与联合国秘书长潘基文、@KatyPerry 、@Shakira_Official 、内马尔、保罗·加索尔、金妍儿等各路明星重新演绎约翰·列侬的Imagine，为全球5000万名背景离乡的难民和移民儿童寻求支持。请分享这 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-10-07 19:30:11 来自vivo智能手机",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "有哪些值得一听的电吉他solo？-回答作者：走吧Eleanorhttp://t.cn/Rcd304v（想看更多？下载知乎App：知乎） ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-30 12:34:13 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "腰乐队嘛，相见恨晚。用大家的话来说，就是甜。果然我还是喜欢这种听起来轻快美好的歌，歌词听不清嘛。明天就可以回家了，能好好休息一下了。回家稍微插一下电也是很不错的。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-30 07:39:58 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "1",
+            "content": "【本周佳片】《万物理论》（The Theory of Everything）[英国/2014] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-09-29 06:57:14 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "下了个小雨，空气里好闻的潮湿味道让我心情愉悦。 公交车上听了大同的歌，时空仿佛错乱，回到了高中。 现在好想回家，在这样的天气里，看佳片有约的重播。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-27 07:54:06 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "你真的了解五声音阶吗？ #MG课堂#五声音阶是广大吉他爱好者最喜欢用的一种音阶，今天蔡正东老师就给你提供一个全新的理解五声音阶的思路。当C和弦分别为一级、四级、五级和弦时，新形成的音阶变化的只有4与7，剩下来不变的音刚好是1 2 3 5 6，也就是我们常用的五声音阶了。当然我们还可以使用这种方法推导 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-09-22 23:04:44 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "0",
+            "content": "摇滚泰斗AC/DC乐队设备大揭秘！经典用朴实打造 AC/DC的粉丝们有福了，我们今天一个视频来为你揭秘他们的设备，包括 Angus 的三把SG、Malcolm的四把Gretsch电吉他，还有电源、机架效果器、音箱等等。壕们想要完美复刻他们的吉他音色的话，也就有了方向，不过对于我们这些普通的乐迷们来说，看一看过一过眼瘾就OK了。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-09-22 22:43:06 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "如果我是一个小导演，我会拍一部短片。我要用高速摄影机拍摄吉他大师们的手。比如Zakk，高速摄像之下他右手那极快速的交替拨弦肯定魅力无穷，或者是Jeff Beck，他用涂了镁粉的手指拨弦，这种视觉感受绝对是拨片无法复制的。而且这也是有教学的实际意义的，大师们手上的细节总是有趣又富有教益的。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-09-06 09:43:08 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "希望有朝一日能把这些想看的电影干得一个不剩。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-08-31 16:43:01 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "1969年8月，摇滚史上极具历史意义的伍德斯托克（Woodstock）音乐节正式开始，在这场演出中Jimi Hendrix、Janis Joplin、Joan Baez、The Who等活佛级别的音乐人的表演一直被人津津乐道，而BuzzFeed选出了20件你也许不知道的关于伍德斯托克音乐节的事。包括创办人、筹划、相关的音乐纪录片与现场录音专辑 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-31 07:39:42 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "我们为你列举出了布鲁斯摇滚领域里的25条代表性乐句，它们绝对能增加你的乐句储备。如果你刚好是名初学者，这些乐句对你大有裨益；如果你已经玩过好几年的吉他了，这些乐句或许能使你突破弹奏的瓶颈。今天继续为你带来包括 Hendrix、Wes Montgomery、Steve Cropper、John Mayer等大师们的精彩乐句，不 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-31 07:21:46 来自Android",
+            "upvote": "0"
+        },
+        {
+            "comment": "0",
+            "content": "1990年8月27日，Stevie Ray Vaughan与乐队Double Trouble作为特邀嘉宾参加了Alpine Valley Musicla Theater的演唱会，同台的有Eric Clapton, Buddy Guy, Robert Cray 还有 Vaughan 的兄弟 Jimmie。当晚他所搭乘的直升机在威斯康辛州的East Troy外坠毁，年仅35岁的一代布鲁斯吉他之神永远离开了。这里有 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-31 07:19:36 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "紧急转发：东营的小伙伴帮我转一下，我的钱包丢了，现金不多，丢失地点在嬉水公园到乐天玛特附近，主要是身份证，银行卡，姓名郑新宇，地址济宁路11号19号楼1单元102，手机17862346439。谢谢大家了。 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-18 10:32:10 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "請火力轉發[拳头] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-18 10:30:09 来自Android",
+            "upvote": "4"
+        },
+        {
+            "comment": "0",
+            "content": "今天整理了一下我的豆瓣。我负责任地说，电影，这种虚幻、娱乐的东西，将成为我生命的一部分。这种精神的毒品，多他妈伤时间啊，可我是不会试图戒除的。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-08-16 12:27:14 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "1",
+            "content": "前方高能！看完无法直视麦当劳，心理阴影+1 [doge]秒拍视频 ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-12 21:05:37 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "#里约奥运# 菲尔普斯励志广告片：最后一战！秒拍视频 成功绝非偶然！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-12 19:22:17 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "1",
+            "content": "希望能在天气凉起来之前去烟台洗一次海澡，希望这个月能看更多的电影，希望会弹更多的东西，希望拼完这个学期早点回家。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-08-09 21:57:16 来自Android",
+            "upvote": "1"
+        },
+        {
+            "comment": "0",
+            "content": "Gb与F#到底有什么不一样？其实还真有！我们当中大部分人认为这两个音是一样的，即使知道它们之间有区别也很可能没有将这个问题想透彻。第一，它们的功能有区别；第二，也就是我们这次重点讲的十二平均律与纯律等音律各自运算方式的差异所带来的某些音程的偏差。所以如果你下次使用调音表时觉得这个音不 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-09 07:44:59 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "1",
+            "content": "#菲李漫画# #里约奥运# 全世界都在吐槽奥运会，但是你了解奥运上的这些吗？[doge] ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-08-06 07:39:21 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "4",
+            "content": "原来人的情感是受记忆支配的。你说你不吝身外之物，却会被这些事物承载的情感经历牢牢绑缚。真金白银买不来情感么？情感的产生消亡变幻莫测，庸碌的我们真的可懂？我的自行车丢了，可它当真化为万物了么？我可能永远也骑不上这道坡了，对不起。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-31 15:32:30 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "一支由导演 Rob Reiner 创造出来的虚构乐队Spinal Tap，走过Psychedelic/Pop Rock，撞上NWOBHM（英国重金属新浪潮），一举成为当年英国最热的Hair Metal（流行金属）乐队之一。实际上这支乐队的境况正影射着那个年代的众多乐队，从某种角度而言，你可以将它视作为80年代Hair Metal的“风土人情”剧情片 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-07-30 11:15:42 来自Android",
+            "upvote": "4"
+        },
+        {
+            "comment": "2",
+            "content": "十八岁之前羡慕别人，现在羡慕自己。父母羡慕他们的孩子。我是这么觉得的。你们呢。@东方教主324 @娄阿奎那 @么CP2 @我的姓氏就四画 @能吃么 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-26 09:54:09 来自Android",
+            "upvote": "6"
+        },
+        {
+            "comment": "0",
+            "content": "#方大同王力宏FLOW# 新专辑的第三首主打推出了！这次特别邀请到@王力宏 一起合作！在九月份会发行的专辑概念是中西合并的理念而《FLOW》这一首也特别强调了这一点。力宏是其中一位最早期在做中西结合的音乐，他曾经将京剧和嘻哈融为一体，让我们听到了新的创意。很荣幸可以和他一起跟大家分享一种fusio 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-07-26 06:10:00 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "第一次省体灯光球场之行就这么结束了。希望以后还能有心情去那里打球。倾斜的，容易崴脚的地面，还有被我一肘子豁开鼻梁上一个大口子的陌生人，辗转三个医院。最后我的球没有跟我回到学校。晚安，好热。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-26 00:05:24 来自Android",
+            "upvote": "4"
+        },
+        {
+            "comment": "0",
+            "content": "今天我们不玩套路-来自知乎专栏·「鱼鱼鱼三条鱼」，作者：Seasee Youl，http://t.cn/Rt2HLlI（想看更多？下载知乎App：知乎）谨借此文怀念我的高中语文老师。[玫瑰] ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-22 22:44:02 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "为什么我们一致认为乔丹、科比和詹姆斯是联盟门面？因为他们在攻防两端都极具统治力，因为他们对比赛永不放弃！ ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-07-21 18:44:36 来自Android",
+            "upvote": "5"
+        },
+        {
+            "comment": "0",
+            "content": "一名叫Miguel的街头音乐人长期在罗马万神殿外的广场上演奏自己改编的摇滚名曲，重点是他的翻弹听起来还是蛮有味道的。《Bohemian Rhapsody》中吉他声如人声般妩媚吟唱、《Stairway to Heaven》中，他的弹奏中又展现出一种从容与淡定、《Shine On You Crazy Diamond》又能唤起了当年酸性迷幻的岁月。总 全文",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-07-16 22:17:12 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "6",
+            "content": "我快迷失了，这样不好。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-08 18:42:24 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "1",
+            "content": "实习就这么开始了。人走了好多，生活也变样了。我就像老渔王，还想接着做渔王，可海港已经不知去向。 在梦里，我们依然还在一起，摸爬滚打。 ",
+            "forward": "0",
+            "forward_flag": 0,
+            "time": "2016-07-04 11:13:25 来自Android",
+            "upvote": "3"
+        },
+        {
+            "comment": "0",
+            "content": "抱歉，此微博已被作者删除。查看帮助：http://t.cn/Rfd3rQV",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-06-29 23:14:58 来自Android",
+            "upvote": "2"
+        },
+        {
+            "comment": "0",
+            "content": "相爱相杀，Kurt Cobain模仿Axl Rose跳蛇舞…… 秒拍视频 . ",
+            "forward": "0",
+            "forward_flag": 1,
+            "time": "2016-06-28 20:19:25 来自Android",
+            "upvote": "2"
+        }
+    ],
+    "weibos_num": "720"
+}

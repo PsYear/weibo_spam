@@ -1,0 +1,8 @@
+{
+    "followers_num": "0",
+    "following_num": "1",
+    "id": "1839789947",
+    "name": "该用户已注销此账户",
+    "weibo": [],
+    "weibos_num": "0"
+}
