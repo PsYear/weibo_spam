@@ -222,7 +222,7 @@ class weibo:
            resultHeader = '\n\n原创微博内容：\n'
         else:
            resultHeader = '\n\n微博内容：\n'
-        txt_dict['name'] =  self.userName #用户信息
+        txt_dict['name'] =  self.userName.decode('gbk') #用户信息
         txt_dict['id'] = str(self.user_id)   #用户id
         txt_dict['weibos_num'] = str(self.weiboNum)   #微博数
         txt_dict['following_num'] = str(self.following)  #关注数
@@ -252,7 +252,7 @@ class weibo:
         f.close()
 
 
-        file_path=os.getcwd() + "\weibo"+"\%s.txt" % self.user_id
+        file_path=os.getcwd()+"\weibo"+"\%d"%self.user_id+".txt"
         print ('微博写入文件完毕，保存路径%s'%(file_path))
       except Exception as e:
         print ("Error: ",e )
@@ -264,7 +264,7 @@ def spider_run(user_id):
     filter = 0 #值为0表示爬取全部的微博信息（原创微博+转发微博），值为1表示只爬取原创微博
     wb = weibo(user_id,filter) #调用weibo类，创建微博实例wb
     wb.start() #爬取微博信息
-    print ('用户名：' + wb.userName)
+    print ('用户名：' + wb.userName.decode('gbk'))
     print('id:'+str(user_id))
     print ('全部微博数：' + str(wb.weiboNum))
     try:
@@ -281,25 +281,24 @@ def spider_run(user_id):
         traceback.print_exc()
 
 if __name__ == '__main__':
-
     num  = 0
     user_post = pd.read_excel('../data/spammer_order.xls')['user_id']
     path = os.getcwd()
     file_list = os.listdir(path+'/weibo/')
     for i in user_post:
-        id_num = str(i)
-        filename = id_num+'.txt'
-        if filename not in file_list:
-            try:
-                spider_run(int(i))
-                time.sleep(10)
-            except Exception as e:
-                print ("Error: ",e)
-                traceback.print_exc()
-                time.sleep(200)
-                print("重试")
-        num += 1
-        print(num)
+    	id_num = str(i)
+    	filename = id_num+'.txt'
+    	if filename not in file_list:
+    		try:
+    			spider_run(int(i))
+    			time.sleep(10)
+    		except Exception as e:
+    			print ("Error: ",e)
+    			traceback.print_exc()
+    			time.sleep(200)
+    			print("重试")
+    	num += 1
+    	print(num)
 
 
 # spider_run()

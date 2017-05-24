@@ -37,24 +37,28 @@ def get_features(user):
         'mention'               : 0,
         'hashtag'               : 0,
         'url'                   : 0,
-        # 'text_similarity'       : 0,
+        'text_similarity'       : 0,
         'time_interval_mean'    : 0,
         'time_interval_var'     : 0,
         'post_num'              : 0,
-#         'active_day_ratio'      : 0,
+
+        'active_day_ratio'      : 0,
+        'active_day_num'        : 0,
 #         'follow_ratio'          : 0,
 #         'figure_RRT'            : 0,
-#         'average_comm'          : 0,
-#         'followee_num'          : 0,
+        'comment_num'          : 0,
 #         'figure_at_every'       : 0,
-#         'day_interval_variance' : 0,
 #         'late_night_times'      : 0,
 #         'figure_at_sigle'       : 0,
 #         'figure_at'             : 0,
 
         'followers_num'         : 0, # new added
         'following_num'         : 0,
-        'content_length'        : 0
+        'content_length'        : 0,
+
+        'upvote_num'            : 0,
+        'forwarded_num'           : 0,
+        'forward_weibo_num'     : 0
     }
 
     # 声望：关注他的人与他关注的人之比
@@ -70,6 +74,12 @@ def get_features(user):
     time_intervals    = []
     prev_time         = None
     post_lens = []
+    comment_num = 0
+    upvote_num = 0
+    forwarded_num = 0
+    forward_weibo_num = 0
+
+    days_set = set()
 
     for post in user['weibo']:
         if '@' in post['content']:
@@ -78,28 +88,42 @@ def get_features(user):
             vector['hashtag'] += 1
         if 'http://' in post['content']:
             vector['url'] += 1
-        words = list(jieba.cut(post['content']))
-        words = [word for word in words if word not in stop_words]
-        posts.append(' '.join(words))
+        # words = list(jieba.cut(post['content']))
+        # words = [word for word in words if word not in stop_words]
+        # posts.append(' '.join(words))
 
         curr_time = str2time(' '.join(post['time'].split()[:2]))
         if curr_time == None:
             continue
         if prev_time != None:
             time_intervals.append((prev_time - curr_time).seconds)
+            days_set.add((prev_time - curr_time).days)
+
         prev_time = curr_time
 
         post_lens.append(len(post['content']))
-
+        comment_num += int(post['comment'])
+        upvote_num += int(post['upvote'])
+        forwarded_num += int(post['forward'])
+        forward_weibo_num += int(post['forward_flag'])
 
     if len(time_intervals) > 0:
         vector['time_interval_mean'] = np.mean(time_intervals)
         vector['time_interval_var'] = np.var(time_intervals)
-        vector['content_length'] = np.mean(post_lens)
+
+    vector['content_length'] = np.mean(post_lens)
 
     vector['post_num'] = int(user['weibos_num'])
-
-
+    vector['comment_num'] = comment_num
+    vector['active_day_num'] = len(days_set)
+    if max(days_set) == 0:
+        print(user)
+        vector['active_day_ratio'] = 0
+    else:
+        vector['active_day_ratio'] = 1.0*len(days_set)/max(days_set)
+    vector['upvote_num'] = upvote_num
+    vector['forwarded_num'] = forwarded_num
+    vector['forward_weibo_num'] = forward_weibo_num
 
     # posts之间的文本相似度
     # try:
@@ -110,5 +134,5 @@ def get_features(user):
     #     vector['text_similarity'] = np.mean(matrix)
     # except:
     #     print(user)
-
+    vector['text_similarity'] = 1
     return vector
