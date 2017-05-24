@@ -10,22 +10,22 @@ import requests
 import time
 from lxml import etree
 import traceback
-import pandas as pd 
-import numpy as np 
+import pandas as pd
+import numpy as np
 from pandas import Series,DataFrame
 import jieba
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
-import gensim
+# import gensim
 import json
-from gensim.models import word2vec
+# from gensim.models import word2vec
 import logging
 import codecs
 
 
 
 class weibo:
-    
+
     #weibo类初始化
     def __init__(self,user_id,filter = 0):
             self.user_id = user_id #用户id，即需要我们输入的数字，如昵称为“Dear-迪丽热巴”的id为1669879400
@@ -80,10 +80,10 @@ class weibo:
                 "hfp":""
                 }
             self.time_list = []
-    #获取用户昵称     
+    #获取用户昵称
 
     def login(self):
-        
+
         url = "https://passport.weibo.cn/sso/login"
         cont = self.session.post(url,headers=self.headers2,data=self.data)
         print ("log")
@@ -96,17 +96,17 @@ class weibo:
             userName = selector.xpath("//title/text()")[0]
             self.userName = userName[:-3].encode('gbk')
             #print '用户昵称：' + self.userName
-        except Exception as e:        
-            print ("Error: ",e) 
+        except Exception as e:
+            print ("Error: ",e)
             traceback.print_exc()
-        
 
-        
-        
-        
-        
-        
-        
+
+
+
+
+
+
+
     #获取用户微博数、关注数、粉丝数
     def getUserInfo(self):
       try:
@@ -119,34 +119,34 @@ class weibo:
 
         #微博数
         str_wb = selector.xpath("//div[@class='tip2']/span[@class='tc']/text()")[0]
-        guid = re.findall(pattern, str_wb, re.S|re.M)   
-        for value in guid:   
-            num_wb = int(value)  
+        guid = re.findall(pattern, str_wb, re.S|re.M)
+        for value in guid:
+            num_wb = int(value)
             break
-        self.weiboNum = num_wb  
-        #print '微博数: ' + str(self.weiboNum) 
-  
+        self.weiboNum = num_wb
+        #print '微博数: ' + str(self.weiboNum)
+
         #关注数
         str_gz = selector.xpath("//div[@class='tip2']/a/text()")[0]
-        guid = re.findall(pattern, str_gz, re.M)  
-        self.following = int(guid[0])  
+        guid = re.findall(pattern, str_gz, re.M)
+        self.following = int(guid[0])
         #print '关注数: ' + str(self.following)
 
         #粉丝数
         str_fs = selector.xpath("//div[@class='tip2']/a/text()")[1]
-        guid = re.findall(pattern, str_fs, re.M)  
-        self.followers = int(guid[0]) 
+        guid = re.findall(pattern, str_fs, re.M)
+        self.followers = int(guid[0])
         #print '粉丝数: ' + str(self.followers)
-      except Exception as e:        
+      except Exception as e:
         print ("Error: ",e)
         traceback.print_exc()
-        
-    #获取用户微博内容及对应的点赞数、转发数、评论数    
+
+    #获取用户微博内容及对应的点赞数、转发数、评论数
     def getWeiboInfo(self):
       try:
         url = 'http://weibo.cn/u/%d?filter=%d&page=1'%(self.user_id,self.filter)
         html = self.session.get(url, headers=self.headers3).content
-        selector = etree.HTML(html)        
+        selector = etree.HTML(html)
         if selector.xpath('//input[@name="mp"]')==[]:
            pageNum = 1
         else:
@@ -168,7 +168,7 @@ class weibo:
               #微博内容
               str_t = info[i].xpath("div/span[@class='ctt']")
               weibos = str_t[0].xpath('string(.)').encode('gbk','ignore')
-                
+
               if len(info[i].xpath("div/span[@class='cmt']")) !=0:
                     self.weibos_flag.append(1)
               else:
@@ -177,30 +177,30 @@ class weibo:
               #print '微博内容：'+ weibos
               #点赞数
               str_zan = info[i].xpath("div/a/text()")[-4]
-              guid = re.findall(pattern, str_zan, re.M)  
+              guid = re.findall(pattern, str_zan, re.M)
               num_zan = int(guid[0])
               self.num_zan.append(num_zan)
               #print '点赞数: ' + str(num_zan)
               #转发数
               forwarding = info[i].xpath("div/a/text()")[-3]
-              guid = re.findall(pattern, forwarding, re.M)  
+              guid = re.findall(pattern, forwarding, re.M)
               num_forwarding = int(guid[0])
-              self.num_forwarding.append(num_forwarding)              
+              self.num_forwarding.append(num_forwarding)
               #print '转发数: ' + str(num_forwarding)
               #评论数
               comment = info[i].xpath("div/a/text()")[-2]
-              guid = re.findall(pattern, comment, re.M)  
-              num_comment = int(guid[0]) 
+              guid = re.findall(pattern, comment, re.M)
+              num_comment = int(guid[0])
               self.num_comment.append(num_comment)
               #print '评论数: ' + str(num_comment)
         if self.filter == 0:
           print ('共'+str(self.weiboNum2)+'条微博')
         else:
           print (u'共'+str(self.weiboNum)+'条微博，其中'+str(self.weiboNum2)+'条为原创微博')
-      except Exception as e:        
+      except Exception as e:
         print ("Error: ",e)
         traceback.print_exc()
-    
+
     #主程序
     def start(self):
       try:
@@ -210,15 +210,15 @@ class weibo:
         weibo.getWeiboInfo(self)
         print ('信息抓取完毕')
         print ('===========================================================================')
-      except Exception as e:        
+      except Exception as e:
         print ("Error: ",e)
-    
-    #将爬取的信息写入文件 
+
+    #将爬取的信息写入文件
     def writeTxt(self):
       txt_dict = {}
       try:
         if self.filter == 1:
-            
+
            resultHeader = '\n\n原创微博内容：\n'
         else:
            resultHeader = '\n\n微博内容：\n'
@@ -239,25 +239,25 @@ class weibo:
             weibo_dict['time'] = self.time_list[i-1] #时间
             weibo_dict['forward_flag'] = self.weibos_flag[i-1] #是否是转发
             txt_dict['weibo'].append(weibo_dict)
-        
+
 #         text=str(i) + ':' + self.weibos[i-1].decode('gbk') + '\n'+'点赞数：' + str(self.num_zan[i-1]) + '    转发数：' + str(self.num_forwarding[i-1]) + '   评论数：' + str(self.num_comment[i-1]) + '\n'+self.time_list[i-1]+'\n'+'转发:'+str(self.weibos_flag[i-1])+'\n\n'
 #         result = result + text
-                                        
-        result = json.dumps(txt_dict,sort_keys=True, indent=4,ensure_ascii=False)                           
+
+        result = json.dumps(txt_dict,sort_keys=True, indent=4,ensure_ascii=False)
         if os.path.isdir('weibo') == False:
            os.mkdir('weibo')
-    
+
         f = open("weibo/%s.txt"%self.user_id, "w",encoding='utf-8')
         f.write(result)
         f.close()
 
-    
+
         file_path=os.getcwd() + "\weibo"+"\%s.txt" % self.user_id
         print ('微博写入文件完毕，保存路径%s'%(file_path))
-      except Exception as e:        
+      except Exception as e:
         print ("Error: ",e )
-        traceback.print_exc()       
-        
+        traceback.print_exc()
+
 
 def spider_run(user_id):
     #可以改成任意合法的用户id（爬虫的微博id除外）
@@ -276,11 +276,11 @@ def spider_run(user_id):
             print ('最新一条微博获得的转发数：' + str(wb.num_forwarding[0]))
             print ('最新一条微博获得的评论数：' + str(wb.num_comment[0]))
         wb.writeTxt() #wb.writeTxt()只是把信息写到文件里，大家可以根据自己的需要重新编写writeTxt()函数
-    except Exception as e:        
+    except Exception as e:
         print ("Error: ",e )
-        traceback.print_exc()  
+        traceback.print_exc()
 
-if __name__ == '__main__':  
+if __name__ == '__main__':
 
     num  = 0
     user_post = pd.read_excel('../data/spammer_order.xls')['user_id']
@@ -293,13 +293,13 @@ if __name__ == '__main__':
             try:
                 spider_run(int(i))
                 time.sleep(10)
-            except Exception as e:        
+            except Exception as e:
                 print ("Error: ",e)
                 traceback.print_exc()
-                time.sleep(200) 
+                time.sleep(200)
                 print("重试")
         num += 1
         print(num)
-	
+
 
 # spider_run()

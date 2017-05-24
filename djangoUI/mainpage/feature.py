@@ -10,8 +10,8 @@ from sklearn import feature_extraction
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 
-stop_words = [word.strip() for word in open('stop_word.txt', 'r').readlines()]
-stop_words += [' ']
+# stop_words = [word.strip() for word in open('stop_word.txt', 'r').readlines()]
+# stop_words += [' ']
 
 def str2time(s):
     ans = None
@@ -37,7 +37,7 @@ def get_features(user):
         'mention'               : 0,
         'hashtag'               : 0,
         'url'                   : 0,
-        'text_similarity'       : 0,
+        # 'text_similarity'       : 0,
         'time_interval_mean'    : 0,
         'time_interval_var'     : 0,
         'post_num'              : 0,
@@ -51,17 +51,17 @@ def get_features(user):
 #         'late_night_times'      : 0,
 #         'figure_at_sigle'       : 0,
 #         'figure_at'             : 0,
-        
+
         'followers_num'         : 0, # new added
         'following_num'         : 0,
         'content_length'        : 0
     }
-    
+
     # 声望：关注他的人与他关注的人之比
     vector['reputation'] = float(user['followers_num']) / float(user['following_num'])
     vector['followers_num'] = float(user['followers_num'])
     vector['following_num'] = float(user['following_num'])
-    
+
     # '@'次数和'#'次数：
     vector['mention'] = 0
     vector['hashtag'] = 0
@@ -70,7 +70,7 @@ def get_features(user):
     time_intervals    = []
     prev_time         = None
     post_lens = []
-    
+
     for post in user['weibo']:
         if '@' in post['content']:
             vector['mention'] += 1
@@ -81,34 +81,34 @@ def get_features(user):
         words = list(jieba.cut(post['content']))
         words = [word for word in words if word not in stop_words]
         posts.append(' '.join(words))
-        
+
         curr_time = str2time(' '.join(post['time'].split()[:2]))
         if curr_time == None:
             continue
         if prev_time != None:
             time_intervals.append((prev_time - curr_time).seconds)
         prev_time = curr_time
-        
+
         post_lens.append(len(post['content']))
-    
-    
+
+
     if len(time_intervals) > 0:
         vector['time_interval_mean'] = np.mean(time_intervals)
         vector['time_interval_var'] = np.var(time_intervals)
         vector['content_length'] = np.mean(post_lens)
-    
-    vector['post_num'] = int(user['weibos_num'])
-    
 
-    
+    vector['post_num'] = int(user['weibos_num'])
+
+
+
     # posts之间的文本相似度
-    try:
-        vectorizer = CountVectorizer()
-        transformer = TfidfTransformer()
-        tfidf = transformer.fit_transform(vectorizer.fit_transform(posts))
-        matrix = (tfidf * tfidf.T).A
-        vector['text_similarity'] = np.mean(matrix)
-    except:
-        print(user)
-    
+    # try:
+    #     vectorizer = CountVectorizer()
+    #     transformer = TfidfTransformer()
+    #     tfidf = transformer.fit_transform(vectorizer.fit_transform(posts))
+    #     matrix = (tfidf * tfidf.T).A
+    #     vector['text_similarity'] = np.mean(matrix)
+    # except:
+    #     print(user)
+
     return vector

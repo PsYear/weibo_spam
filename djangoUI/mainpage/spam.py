@@ -3,18 +3,18 @@
 import pickle
 import json
 import pandas as pd
-from weibospider import spider_run
-from feature import get_features
+from mainpage.weibospider import spider_run
+from mainpage.feature import get_features
 
 def classify(uid):
 
   spider_run(uid)
 
-  user = json.load('./weibo/%s.txt' % uid)
+  user = json.load(open('./weibo/%s.txt' % uid))
 
   features = get_features(user)
 
-  model = pickle.load('./spam.model')
+  model = pickle.load(open('./spam.model'))
 
   test_X = pd.DataFrame.from_dict(features)
 
