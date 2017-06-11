@@ -1,0 +1,283 @@
+html,
+body,
+form,
+fieldset,
+input,
+p,
+img,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0
+}
+
+ul,
+ol {
+  list-style: none
+}
+
+img,
+fieldset {
+  border: none
+}
+
+a {
+  text-decoration: none
+}
+
+em {
+  font-style: normal
+}
+
+body {
+  background: #fff;
+  font-size: 12px;
+  font-family: arial;
+  min-height: 52px;
+  min-width: 1000px;
+  position: relative
+}
+
+footer,
+header,
+nav,
+section {
+  display: block
+}
+
+input::-ms-clear {
+  display: none
+}
+
+.clearfix {
+  zoom: 1
+}
+
+a:hover {
+  text-decoration: underline
+}
+
+.clearfix:after {
+  clear: both;
+  content: "";
+  display: block
+}
+
+#skin_bg {
+  background-color: #888;
+  background-repeat: repeat;
+  background-position: center top;
+  background-size: cover;
+  background-attachment: fixed;
+  display: none;
+  left: 0;
+  position: fixed;
+  _position: absolute;
+  top: 0;
+  z-index: -10
+}
+
+#skin_bg,
+#skin_bg img {
+  height: 100%;
+  width: 100%;
+}
+
+.skin #skin_bg {
+  display: block
+}
+
+.skin-logo {
+  background-image: url("images/bg.png");
+  background-image: -webkit-image-set(url("../images/bg.png") 1x, url("../images/bg.png") 2x);
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: block;
+  height: 125px;
+  margin: 0 auto;
+  position: relative;
+  width: 400px;
+  z-index: 0
+}
+
+.skin .skin-logo {
+  background-image: url("images/bg.png");
+  background-image: -webkit-image-set(url("../images/bg.png") 1x, url("../images/bg.png") 2x)
+}
+
+#main {
+  clear: both;
+  margin: 0 auto;
+  padding-bottom: 75px;
+  width: 880px
+}
+
+.skin-search-button {
+  background: #d32f2f;
+  color: #fff
+}
+
+.skin-search-button:hover {
+  background: #f9a825
+}
+
+.skin-search-button:active {
+  background: #f9a837
+}
+
+#bd_search {
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-transition: margin-bottom .4s;
+  -moz-transition: margin-bottom .4s;
+  -ms-transition: margin-bottom .4s;
+  transition: margin-bottom .4s;
+  width: 645px
+}
+
+#input-container {
+  background: #fff;
+  height: 44px;
+  position: relative;
+  width: 531px;
+  z-index: 9
+}
+
+#suggest-align {
+  background: #fff;
+  height: 34px;
+  padding: 4px 10px 4px 12px;
+  position: relative;
+  vertical-align: top
+}
+
+#input {
+  background: #fff;
+  border: none;
+  color: #333;
+  float: left;
+  font-size: 16px;
+  height: 30px;
+  line-height: 30px\9;
+  margin-top: 3px;
+  outline: none;
+  width: 506px
+}
+
+#search-button {
+  -webkit-appearance: none;
+  border: 0;
+  *border: 0;
+  cursor: pointer;
+  font-family: "Microsoft YaHei";
+  font-size: 18px;
+  height: 44px;
+  left: 530px;
+  outline: none;
+  position: absolute;
+  top: 0;
+  vertical-align: top;
+  width: 110px
+}
+
+#footer {
+  bottom: 0;
+  left: 0;
+  line-height: 24px;
+  min-width: 700px;
+  padding: 6px 0;
+  position: absolute;
+  text-align: center;
+  width: 100%;
+}
+
+#footer span {
+  color: rgba(0, 0, 0, .1);
+  color: #c5c5c5;
+  margin: 0 8px
+}
+
+.skin #footer span {
+  color: rgba(255, 255, 255, .2);
+  color: #fff;
+  margin: 0 8px
+}
+
+#bd_logo {
+  margin: 140px auto 45px
+}
+
+#bd_search {
+  margin-bottom: 500px
+}
+
+.skin .ac_wrap {
+  box-shadow: none;
+  margin-top: 2px
+}
+
+.skin-text,
+.skin-text a {
+  color: #666
+}
+
+.skin .skin-text,
+.skin .skin-text a {
+  color: #fff
+}
+
+.skin-search-input {
+  border: 1px solid #ccc
+}
+
+.skin-text-tab strong {
+  color: #19b955
+}
+
+.skin .skin-tab-ico {
+  background-position: -50px -280px
+}
+
+.skin-search-input:hover {
+  border: 1px solid #aaa
+}
+
+.skin-search-input.hover {
+  border: 1px solid #19b955
+}
+
+.skin .skin-search-input {
+  border: 1px solid #fff
+}
+
+.skin .skin-text-tab strong {
+  color: #fff
+}
+
+.skin .skin-text-tab a:hover {
+  text-decoration: none
+}
+
+.skin-dark .skin-text,
+.skin-dark .skin-text a {
+  color: #666
+}
+
+.skin-dark .skin-tab-ico {
+  background-position: -50px -290px
+}
+
+.skin-dark .skin-search-input {
+  border: 1px solid #ccc
+}
